@@ -1,28 +1,21 @@
----
-layout: default
-title: Home
-permalink: /
----
+<div align="center">
 
 # 🎓 Awesome Student Perks
-
-<div align="center">
-  <img src="https://via.placeholder.com/1000x300.png?text=Student+Perks+Banner" alt="Awesome Student Perks Banner" width="100%">
-  <br>
-</div>
 
 A curated collection of **free resources, tools, courses, software, and exclusive perks**.  
 Tailored for students, but also highlighting resources that require **Faculty/Teacher** registration to unlock.
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Maintainer-Jhaxce-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" />
   <a href="./VERIFICATION.md"><img src="https://img.shields.io/badge/Guide-Verification_Hacks-orange?style=for-the-badge" /></a>
 </p>
 
+</div>
 ---
 
+<a id="categories"></a>
 ## 📌 Browse by Category
 - [☁️ Infrastructure & Cloud](#-infrastructure--cloud)
 - [🛠️ The Builder's Stack (Dev Tools)](#-the-builders-stack-dev-tools)
@@ -52,6 +45,12 @@ Tailored for students, but also highlighting resources that require **Faculty/Te
 
 </details>
 
+<div align="left">
+  <a href="#categories">
+    <img src="https://img.shields.io/badge/⬆-Back_to_Top-blue?style=for-the-badge" alt="Back to Top"/>
+  </a>
+</div>
+
 <details open>
 <summary><h2>🛠️ The Builder's Stack (Dev Tools)</h2></summary>
 
@@ -72,6 +71,12 @@ Tailored for students, but also highlighting resources that require **Faculty/Te
 
 </details>
 
+<div align="left">
+  <a href="#categories">
+    <img src="https://img.shields.io/badge/⬆-Back_to_Top-blue?style=for-the-badge" alt="Back to Top"/>
+  </a>
+</div>
+
 <details open>
 <summary><h2>🛡️ Security & Operations (Cyber)</h2></summary>
 
@@ -87,6 +92,12 @@ Tailored for students, but also highlighting resources that require **Faculty/Te
 | **Snyk** | Vuln Scanning | Free Premium for Students | **Free** | Student | [Link](https://snyk.io/) |
 
 </details>
+
+<div align="left">
+  <a href="#categories">
+    <img src="https://img.shields.io/badge/⬆-Back_to_Top-blue?style=for-the-badge" alt="Back to Top"/>
+  </a>
+</div>
 
 <details open>
 <summary><h2>🎨 Creative Studio (Design)</h2></summary>
@@ -104,6 +115,12 @@ Tailored for students, but also highlighting resources that require **Faculty/Te
 
 </details>
 
+<div align="left">
+  <a href="#categories">
+    <img src="https://img.shields.io/badge/⬆-Back_to_Top-blue?style=for-the-badge" alt="Back to Top"/>
+  </a>
+</div>
+
 <details open>
 <summary><h2>🧠 Intelligence & Data (AI)</h2></summary>
 
@@ -118,6 +135,12 @@ Tailored for students, but also highlighting resources that require **Faculty/Te
 
 </details>
 
+<div align="left">
+  <a href="#categories">
+    <img src="https://img.shields.io/badge/⬆-Back_to_Top-blue?style=for-the-badge" alt="Back to Top"/>
+  </a>
+</div>
+
 <details open>
 <summary><h2>⚡ Daily Drivers (Productivity)</h2></summary>
 
@@ -130,6 +153,12 @@ Tailored for students, but also highlighting resources that require **Faculty/Te
 | **Typeform** | Forms & Surveys | 1 Year Free Plan | **Free** | Student (GitHub Pack) | [Link](https://www.typeform.com/) |
 
 </details>
+
+<div align="left">
+  <a href="#categories">
+    <img src="https://img.shields.io/badge/⬆-Back_to_Top-blue?style=for-the-badge" alt="Back to Top"/>
+  </a>
+</div>
 
 <details open>
 <summary><h2>🏫 Institutional Access (Faculty Required)</h2></summary>
@@ -144,6 +173,12 @@ Tailored for students, but also highlighting resources that require **Faculty/Te
 
 </details>
 
+<div align="left">
+  <a href="#categories">
+    <img src="https://img.shields.io/badge/⬆-Back_to_Top-blue?style=for-the-badge" alt="Back to Top"/>
+  </a>
+</div>
+
 <details open>
 <summary><h2>🍿 Life & Entertainment</h2></summary>
 
@@ -156,6 +191,12 @@ Tailored for students, but also highlighting resources that require **Faculty/Te
 | **Headspace** | Meditation | $9.99/year (Massive Discount) | **Discount** | Student (SheerID) | [Link](https://www.headspace.com/studentplan) |
 
 </details>
+
+<div align="left">
+  <a href="#categories">
+    <img src="https://img.shields.io/badge/⬆-Back_to_Top-blue?style=for-the-badge" alt="Back to Top"/>
+  </a>
+</div>
 
 ---
 
@@ -181,6 +222,8 @@ Thanks for wanting to contribute — please follow these repository-specific rul
   - Keep PRs small; one perk change per PR is preferred.
 
 See `.github/CONTRIBUTING.md` for a concise contributor checklist.
+
+Note for contributors: this repository uses `index.md` and `_config.yml` so the site builds correctly on GitHub Pages. You should still edit `README.md` only — `index.md` includes `README.md` for the Pages build. Do not add front matter to `README.md`.
 
 ---
 

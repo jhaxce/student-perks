@@ -1,9 +1,3 @@
----
-layout: default
-title: Verification Survival Guide
-permalink: /VERIFICATION/
----
-
 # ✅ The GitHub Student Verification "Survival Guide"
 
 **Getting rejected by the GitHub bot? You are not alone.** GitHub has significantly tightened their verification process to prevent fraud. This guide covers the "workarounds" and specific methods to get approved, even if you don't have an `.edu` email or a standard ID.
