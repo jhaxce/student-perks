@@ -1,0 +1,8 @@
+url: "https://jhaxce.github.io"
+baseurl: "/student-perks"
+title: "Student Perks"
+description: "Curated student discounts and resources for students."
+theme: null
+
+kramdown:
+  input: GFM
