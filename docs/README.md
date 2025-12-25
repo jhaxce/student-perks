@@ -13,6 +13,7 @@ Tailored for students, but also highlighting resources that require **Faculty/Te
 </p>
 
 </div>
+
 ---
 
 <a id="categories"></a>
