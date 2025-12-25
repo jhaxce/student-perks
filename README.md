@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" markdown="1">
 
 # 🎓 Awesome Student Perks
 
@@ -17,6 +17,7 @@ Tailored for students, but also highlighting resources that require **Faculty/Te
 ---
 
 <a id="categories"></a>
+
 ## 📌 Browse by Category
 - [☁️ Infrastructure & Cloud](#-infrastructure--cloud)
 - [🛠️ The Builder's Stack (Dev Tools)](#-the-builders-stack-dev-tools)
@@ -31,7 +32,7 @@ Tailored for students, but also highlighting resources that require **Faculty/Te
 
 ## ☁️ Infrastructure & Cloud
 
-<details open>
+<details open markdown="1">
 <summary>Click to Expand</summary>
 
 | Name | Description | Benefits | Type | Role/Req | Link |
@@ -56,7 +57,7 @@ Tailored for students, but also highlighting resources that require **Faculty/Te
 
 ## 🛠️ The Builder's Stack (Dev Tools)
 
-<details open>
+<details open markdown="1">
 <summary>Click to Expand</summary>
 
 | Name | Description | Benefits | Type | Role/Req | Link |
@@ -84,7 +85,7 @@ Tailored for students, but also highlighting resources that require **Faculty/Te
 
 ## 🛡️ Security & Operations (Cyber)
 
-<details open>
+<details open markdown="1">
 <summary>Click to Expand</summary>
 
 | Name | Description | Benefits | Type | Role/Req | Link |
@@ -108,7 +109,7 @@ Tailored for students, but also highlighting resources that require **Faculty/Te
 
 ## 🎨 Creative Studio (Design)
 
-<details open>
+<details open markdown="1">
 <summary>Click to Expand</summary>
 
 | Name | Description | Benefits | Type | Role/Req | Link |
@@ -132,7 +133,7 @@ Tailored for students, but also highlighting resources that require **Faculty/Te
 
 ## 🧠 Intelligence & Data (AI)
 
-<details open>
+<details open markdown="1">
 <summary>Click to Expand</summary>
 
 | Name | Description | Benefits | Type | Role/Req | Link |
@@ -154,7 +155,7 @@ Tailored for students, but also highlighting resources that require **Faculty/Te
 
 ## ⚡ Daily Drivers (Productivity)
 
-<details open>
+<details open markdown="1">
 <summary>Click to Expand</summary>
 
 | Name | Description | Benefits | Type | Role/Req | Link |
@@ -175,7 +176,7 @@ Tailored for students, but also highlighting resources that require **Faculty/Te
 
 ## 🏫 Institutional Access (Faculty Required)
 
-<details open>
+<details open markdown="1">
 <summary>Click to Expand</summary>
 <i><b>Note:</b> These benefits cannot be claimed by a student alone. Your professor or IT department must register first to grant you access.</i>
 
