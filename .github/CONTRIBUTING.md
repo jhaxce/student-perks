@@ -95,15 +95,3 @@ When adding a row to the table, please strictly adhere to these definitions for 
 If you find a broken link or a benefit that has expired, please create a Pull Request to fix or remove it.
 
 Thank you for your help! 🎓
-
-
-### Next Step: Link it in your README
-Now, update the bottom of your main **`README.md`** to point to this new file:
-
-```markdown
-## 🤝 Contributing
-
-Have a perk to add? We love community contributions!  
-Please read our **[CONTRIBUTING.md](./CONTRIBUTING.md)** file for the strict guidelines on `Type` (Free/Discount/Credit) and formatting.
-
----

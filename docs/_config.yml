@@ -9,7 +9,7 @@ kramdown:
   input: GFM
   hard_wrap: false
 
-theme: null
+theme: cayman
 plugins: []
 safe: true
 exclude:

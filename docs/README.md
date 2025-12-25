@@ -197,7 +197,7 @@ Tailored for students, but also highlighting resources that require **Faculty/Te
 
 ## 🍿 Life & Entertainment
 
-<details open>
+<details open markdown="1">
 <summary>Click to Expand</summary>
 
 | Name | Description | Benefits | Type | Role/Req | Link |
@@ -220,28 +220,7 @@ Tailored for students, but also highlighting resources that require **Faculty/Te
 
 ## 🤝 Contributing
 
-Thanks for wanting to contribute — please follow these repository-specific rules.
-
-- **Where to contribute (required):** All contributions must be made by editing `README.md` only. Add or update rows in the existing category tables. Do not add new pages, modify `/_layouts/default.html`, or change other files.
-
-- **Table row format (copy an existing row):**
-
-  | **Name** | Description | Benefits | Type | Role/Req | Link |
-  | :--- | :--- | :--- | :--- | :--- | :--- |
-  | **Product Name** | Short description | Key benefit | **Free/Credit/Discount** | Student (email/ID) | [Link](https://example.com) |
-
-- **Ordering:** Insert new rows alphabetically within the correct category where practical.
-
-- **What not to change:** Do not add standalone markdown pages, change layout files, or update ad-related values. Keep changes focused to `README.md` content only.
-
-- **PR checklist:**
-  - Use a focused branch (e.g., `add/<perk-name>`).
-  - Describe the change and include the source link for verification.
-  - Keep PRs small; one perk change per PR is preferred.
-
 See `.github/CONTRIBUTING.md` for a concise contributor checklist.
-
-Note for contributors: this repository uses `index.md` and `_config.yml` so the site builds correctly on GitHub Pages. You should still edit `README.md` only — `index.md` includes `README.md` for the Pages build. Do not add front matter to `README.md`.
 
 ---
 
