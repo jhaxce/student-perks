@@ -1,0 +1,68 @@
+name: Deploy Student Perks Site
+
+on:
+  push:
+    branches: ["main"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      # ------------------------------------------------------------------
+      # STEP 1: Ensure docs structure (copy only if needed)
+      # ------------------------------------------------------------------
+      - name: Prepare Docs Folder
+        run: |
+          set -eux
+          mkdir -p docs
+          # Copy README.md -> docs/README.md if missing or different
+          if [ ! -f docs/README.md ] || ! cmp -s README.md docs/README.md; then
+            cp README.md docs/README.md
+          fi
+          # Ensure VERIFICATION dir and copy the guide
+          mkdir -p docs/VERIFICATION
+          if [ ! -f docs/VERIFICATION/VERIFICATION.md ] || ! cmp -s VERIFICATION.md docs/VERIFICATION/VERIFICATION.md; then
+            cp VERIFICATION.md docs/VERIFICATION/VERIFICATION.md
+          fi
+
+      # ------------------------------------------------------------------
+      # STEP 2: Build Jekyll
+      # ------------------------------------------------------------------
+      - name: Build with Jekyll
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./docs
+          destination: ./_site
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+
+  # ------------------------------------------------------------------
+  # STEP 3: Deploy
+  # ------------------------------------------------------------------
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
