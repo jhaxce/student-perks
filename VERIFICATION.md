@@ -70,8 +70,3 @@ If you have failed 3+ times, the bot might be "stuck" on rejecting you.
     * **Message:** "My application was rejected by the automated system. I have attached my valid proof of enrollment here. My school does not issue .edu emails."
     * *Attach the photo you took using Method 1.*
 
----
-
-<div align="center">
-  <a href="./README.md">⬅️ Back to All Perks</a>
-</div>

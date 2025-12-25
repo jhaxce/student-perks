@@ -1,14 +1,14 @@
 <div align="center" markdown="1">
 
-# 🎓 Awesome Student Perks
+# 🎓 Student Perks
 
-A curated collection of **free resources, tools, courses, software, and exclusive perks**.  
+A definitive guide to premium software, developer tools, and educational resources available for **free** to students.
+Designed to eliminate financial barriers and empower learners with professional-grade tools using just a **student ID or university email**.
 Tailored for students, but also highlighting resources that require **Faculty/Teacher** registration to unlock.
 
 <p>
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Maintainer-Jhaxce-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" />
+  <a href="https://github.com/jhaxce"><img src="https://img.shields.io/badge/Maintainer-Jhaxce-blue?style=for-the-badge" />
+  <a href="./LICENSE"><img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" />
   <a href="./VERIFICATION.md"><img src="https://img.shields.io/badge/Guide-Verification_Hacks-orange?style=for-the-badge" /></a>
 </p>
 
@@ -19,14 +19,14 @@ Tailored for students, but also highlighting resources that require **Faculty/Te
 <a id="categories"></a>
 
 ## 📌 Browse by Category
-- [☁️ Infrastructure & Cloud](#-infrastructure--cloud)
-- [🛠️ The Builder's Stack (Dev Tools)](#-the-builders-stack-dev-tools)
-- [🛡️ Security & Operations (Cyber)](#-security--operations-cyber)
-- [🎨 Creative Studio (Design)](#-creative-studio-design)
-- [🧠 Intelligence & Data (AI)](#-intelligence--data-ai)
-- [⚡ Daily Drivers (Productivity)](#-daily-drivers-productivity)
-- [🏫 Institutional Access (Faculty Required)](#-institutional-access-faculty-required)
-- [🍿 Life & Entertainment](#-life--entertainment)
+- [☁️ Infrastructure & Cloud](#☁️-infrastructure--cloud)
+- [🛠️ The Builder's Stack (Dev Tools)](#🛠️-the-builders-stack-dev-tools)
+- [🛡️ Security & Operations (Cyber)](#🛡️-security--operations-cyber)
+- [🎨 Creative Studio (Design)](#🎨-creative-studio-design)
+- [🧠 Intelligence & Data (AI)](#🧠-intelligence--data-ai)
+- [⚡ Daily Drivers (Productivity)](#⚡-daily-drivers-productivity)
+- [🏫 Institutional Access (Faculty Required)](#🏫-institutional-access-faculty-required)
+- [🍿 Life & Entertainment](#🍿-life--entertainment)
 
 ---
 
