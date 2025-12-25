@@ -10,7 +10,6 @@ Short checklist
 
 Repository conventions (important)
 - The canonical content for the site lives in `README.md`. **All contributions must be edits to `README.md` only.**
-- Do not add standalone pages, do not modify `/_layouts/default.html`, and do not change site assets.
 
 How to add or edit a perk
 1. Fork and create a descriptive branch name: `git checkout -b add/<perk-name>`
