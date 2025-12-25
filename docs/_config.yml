@@ -9,7 +9,8 @@ kramdown:
   input: GFM
   hard_wrap: false
 
-theme: cayman
+theme: null
+remote_theme: pages-themes/cayman@v0
 plugins: []
 safe: true
 exclude:
