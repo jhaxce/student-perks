@@ -7,8 +7,8 @@ Designed to eliminate financial barriers and empower learners with professional-
 Tailored for students, but also highlighting resources that require **Faculty/Teacher** registration to unlock.
 
 <p>
-  <a href="https://github.com/jhaxce"><img src="https://img.shields.io/badge/Maintainer-Jhaxce-blue?style=for-the-badge" />
-  <a href="./LICENSE"><img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" />
+  <a href="https://github.com/jhaxce"><img src="https://img.shields.io/badge/Maintainer-Jhaxce-blue?style=for-the-badge" /></a>
+  <a href="./LICENSE"><img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" /></a>
   <a href="./VERIFICATION.md"><img src="https://img.shields.io/badge/Guide-Verification_Hacks-orange?style=for-the-badge" /></a>
 </p>
 
