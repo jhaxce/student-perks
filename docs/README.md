@@ -29,8 +29,10 @@ Tailored for students, but also highlighting resources that require **Faculty/Te
 
 ---
 
+## ☁️ Infrastructure & Cloud
+
 <details open>
-<summary><h2>☁️ Infrastructure & Cloud</h2></summary>
+<summary>Click to Expand</summary>
 
 | Name | Description | Benefits | Type | Role/Req | Link |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -52,8 +54,10 @@ Tailored for students, but also highlighting resources that require **Faculty/Te
   </a>
 </div>
 
+## 🛠️ The Builder's Stack (Dev Tools)
+
 <details open>
-<summary><h2>🛠️ The Builder's Stack (Dev Tools)</h2></summary>
+<summary>Click to Expand</summary>
 
 | Name | Description | Benefits | Type | Role/Req | Link |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -78,8 +82,10 @@ Tailored for students, but also highlighting resources that require **Faculty/Te
   </a>
 </div>
 
+## 🛡️ Security & Operations (Cyber)
+
 <details open>
-<summary><h2>🛡️ Security & Operations (Cyber)</h2></summary>
+<summary>Click to Expand</summary>
 
 | Name | Description | Benefits | Type | Role/Req | Link |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -100,8 +106,10 @@ Tailored for students, but also highlighting resources that require **Faculty/Te
   </a>
 </div>
 
+## 🎨 Creative Studio (Design)
+
 <details open>
-<summary><h2>🎨 Creative Studio (Design)</h2></summary>
+<summary>Click to Expand</summary>
 
 | Name | Description | Benefits | Type | Role/Req | Link |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -122,8 +130,10 @@ Tailored for students, but also highlighting resources that require **Faculty/Te
   </a>
 </div>
 
+## 🧠 Intelligence & Data (AI)
+
 <details open>
-<summary><h2>🧠 Intelligence & Data (AI)</h2></summary>
+<summary>Click to Expand</summary>
 
 | Name | Description | Benefits | Type | Role/Req | Link |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -142,8 +152,10 @@ Tailored for students, but also highlighting resources that require **Faculty/Te
   </a>
 </div>
 
+## ⚡ Daily Drivers (Productivity)
+
 <details open>
-<summary><h2>⚡ Daily Drivers (Productivity)</h2></summary>
+<summary>Click to Expand</summary>
 
 | Name | Description | Benefits | Type | Role/Req | Link |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -161,8 +173,10 @@ Tailored for students, but also highlighting resources that require **Faculty/Te
   </a>
 </div>
 
+## 🏫 Institutional Access (Faculty Required)
+
 <details open>
-<summary><h2>🏫 Institutional Access (Faculty Required)</h2></summary>
+<summary>Click to Expand</summary>
 <i><b>Note:</b> These benefits cannot be claimed by a student alone. Your professor or IT department must register first to grant you access.</i>
 
 | Name | Description | Benefits | Type | Role/Req | Link |
@@ -180,8 +194,10 @@ Tailored for students, but also highlighting resources that require **Faculty/Te
   </a>
 </div>
 
+## 🍿 Life & Entertainment
+
 <details open>
-<summary><h2>🍿 Life & Entertainment</h2></summary>
+<summary>Click to Expand</summary>
 
 | Name | Description | Benefits | Type | Role/Req | Link |
 | :--- | :--- | :--- | :--- | :--- | :--- |
