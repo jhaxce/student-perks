@@ -1,9 +1,9 @@
 ---
-name: Request: Add or Update Perk
-about: Request adding/updating a perk when you prefer opening an issue instead of a Pull Request.
-title: ''
+name: "Request: Add or Update Perk"
+about: "Request adding/updating a perk when you prefer opening an issue instead of a Pull Request."
+title: ""
 labels: request
-assignees: ''
+assignees: ""
 ---
 
 Thank you for taking the time to improve this list. Maintainers prefer a small Pull Request to add or update rows in `README.md`, but if you'd rather open an issue instead, please fill out the fields below.

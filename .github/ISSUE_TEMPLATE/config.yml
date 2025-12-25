@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+	- name: "Maintainer (Jhaxce)"
+		url: "https://github.com/jhaxce"
+		about: "Open an issue to request layout/ad changes or ask a question before creating a PR."
