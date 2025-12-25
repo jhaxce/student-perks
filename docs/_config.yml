@@ -1,8 +1,17 @@
+title: Student Perks
+description: Curated student discounts, tools and resources.
 url: "https://jhaxce.github.io"
-baseurl: "/student-perks"
-title: "Student Perks"
-description: "Curated student discounts and resources for students."
-theme: null
+baseurl: "/student-perks" # the subpath of your site, e.g. /repository-name
 
+# Use GitHub-Flavored Markdown (keeps README.md rendering consistent)
+markdown: kramdown
 kramdown:
   input: GFM
+  hard_wrap: false
+
+theme: null
+plugins: []
+safe: true
+exclude:
+  - node_modules
+  - vendor

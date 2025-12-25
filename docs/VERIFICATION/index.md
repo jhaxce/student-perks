@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Verification
-permalink: /VERIFICATION/
+permalink: /verification/
 ---
 
-{% include_relative ../../VERIFICATION.md %}
+{% include_relative VERIFICATION.md %}

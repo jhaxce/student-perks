@@ -4,4 +4,4 @@ title: Home
 permalink: /
 ---
 
-{% include_relative ../README.md %}
+{% include_relative README.md %}
