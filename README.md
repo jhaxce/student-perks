@@ -19,16 +19,18 @@ Tailored for students, but also highlighting resources that require **Faculty/Te
 <a id="categories"></a>
 
 ## 📌 Browse by Category
-<div align="center">
-  <a href="#infrastructure--cloud" style="margin:4px"><img src="https://img.shields.io/badge/%E2%98%81%EF%B8%8F%20Infrastructure%20%26%20Cloud-Explore-blue?style=for-the-badge" alt="Infrastructure & Cloud"/></a>
-  <a href="#builders-stack-dev-tools" style="margin:4px"><img src="https://img.shields.io/badge/%E2%9B%A0%EF%B8%8F%20Builders%20Stack-Dev%20Tools-green?style=for-the-badge" alt="Builders Stack"/></a>
-  <a href="#security--operations-cyber" style="margin:4px"><img src="https://img.shields.io/badge/%E2%9A%A1%EF%B8%8F%20Security-Operations-red?style=for-the-badge" alt="Security & Operations"/></a>
-  <a href="#creative-studio-design" style="margin:4px"><img src="https://img.shields.io/badge/%F0%9F%8E%A8%20Creative%20Studio-Design-purple?style=for-the-badge" alt="Creative Studio"/></a>
-  <a href="#intelligence--data-ai" style="margin:4px"><img src="https://img.shields.io/badge/%F0%9F%A7%A0%20Intelligence-AI%20%26%20Data-teal?style=for-the-badge" alt="Intelligence & Data"/></a>
-  <a href="#daily-drivers-productivity" style="margin:4px"><img src="https://img.shields.io/badge/%E2%9A%A1%EF%B8%8F%20Daily%20Drivers-Productivity-orange?style=for-the-badge" alt="Daily Drivers"/></a>
-  <a href="#institutional-access-faculty-required" style="margin:4px"><img src="https://img.shields.io/badge/%F0%9F%8F%AB%20Institutional%20Access-Faculty-blueviolet?style=for-the-badge" alt="Institutional Access"/></a>
-  <a href="#life--entertainment" style="margin:4px"><img src="https://img.shields.io/badge/%F0%9F%8D%BF%20Life%20%26%20Entertainment-Enjoy-lightgrey?style=for-the-badge" alt="Life & Entertainment"/></a>
-</div>
+<nav id="categories-nav">
+  <ul>
+    <li><a href="#infrastructure--cloud">☁️ Infrastructure & Cloud</a></li>
+    <li><a href="#builders-stack-dev-tools">🛠️ The Builder's Stack (Dev Tools)</a></li>
+    <li><a href="#security--operations-cyber">🛡️ Security & Operations (Cyber)</a></li>
+    <li><a href="#creative-studio-design">🎨 Creative Studio (Design)</a></li>
+    <li><a href="#intelligence--data-ai">🧠 Intelligence & Data (AI)</a></li>
+    <li><a href="#daily-drivers-productivity">⚡ Daily Drivers (Productivity)</a></li>
+    <li><a href="#institutional-access-faculty-required">🏫 Institutional Access (Faculty Required)</a></li>
+    <li><a href="#life--entertainment">🍿 Life & Entertainment</a></li>
+  </ul>
+</nav>
 
 ---
 

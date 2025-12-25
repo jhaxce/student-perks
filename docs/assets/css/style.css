@@ -65,20 +65,6 @@ table { width:100%; border-collapse: collapse; font-size:0.95rem; margin: 0 0 1.
 thead th { background: rgba(255,255,255,0.02); color: var(--text); padding:12px; text-align:left; border-bottom:1px solid var(--table-border); }
 tbody td { padding:12px; border-top:1px solid var(--table-border); color: var(--text); }
 
-/* Responsive tables: allow horizontal scroll on small viewports without breaking layout */
-table {
-  display: block;
-  width: 100%;
-  overflow-x: auto;
-  -webkit-overflow-scrolling: touch;
-}
-
-/* Keep cell text wrapping to avoid unnecessary horizontal scroll when possible */
-th, td {
-  white-space: normal;
-  word-break: break-word;
-}
-
 h1, h2, h3 { color: var(--text); margin-top: 1.15rem; }
 h1 { font-size: 1.6rem; }
 
