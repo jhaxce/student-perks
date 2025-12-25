@@ -75,9 +75,6 @@ blockquote { border-left: 3px solid rgba(255,255,255,0.04); padding: 8px 12px; c
 
 details { background: rgba(255,255,255,0.01); padding: 8px 12px; border-radius:8px; margin-bottom: 8px; }
 summary { cursor: pointer; outline: none; font-weight:600; }
-summary::-webkit-details-marker { display:none; }
-.summary-caret { display:inline-block; width:1rem; transform:rotate(0deg); transition: transform .18s ease; margin-right:8px; color:var(--muted); }
-details[open] .summary-caret { transform: rotate(90deg); }
 
 footer { color: var(--muted); text-align:center; padding:22px 0; }
 

@@ -19,17 +19,22 @@ Tailored for students, but also highlighting resources that require **Faculty/Te
 <a id="categories"></a>
 
 ## 📌 Browse by Category
-- [☁️ Infrastructure & Cloud](#☁️-infrastructure--cloud)
-- [🛠️ The Builder's Stack (Dev Tools)](#🛠️-the-builders-stack-dev-tools)
-- [🛡️ Security & Operations (Cyber)](#🛡️-security--operations-cyber)
-- [🎨 Creative Studio (Design)](#🎨-creative-studio-design)
-- [🧠 Intelligence & Data (AI)](#🧠-intelligence--data-ai)
-- [⚡ Daily Drivers (Productivity)](#⚡-daily-drivers-productivity)
-- [🏫 Institutional Access (Faculty Required)](#🏫-institutional-access-faculty-required)
-- [🍿 Life & Entertainment](#🍿-life--entertainment)
+<nav id="categories-nav">
+  <ul>
+    <li><a href="#infrastructure--cloud">☁️ Infrastructure & Cloud</a></li>
+    <li><a href="#builders-stack-dev-tools">🛠️ The Builder's Stack (Dev Tools)</a></li>
+    <li><a href="#security--operations-cyber">🛡️ Security & Operations (Cyber)</a></li>
+    <li><a href="#creative-studio-design">🎨 Creative Studio (Design)</a></li>
+    <li><a href="#intelligence--data-ai">🧠 Intelligence & Data (AI)</a></li>
+    <li><a href="#daily-drivers-productivity">⚡ Daily Drivers (Productivity)</a></li>
+    <li><a href="#institutional-access-faculty-required">🏫 Institutional Access (Faculty Required)</a></li>
+    <li><a href="#life--entertainment">🍿 Life & Entertainment</a></li>
+  </ul>
+</nav>
 
 ---
 
+<a id="infrastructure--cloud"></a>
 ## ☁️ Infrastructure & Cloud
 
 <details open markdown="1">
@@ -55,6 +60,7 @@ Tailored for students, but also highlighting resources that require **Faculty/Te
   </a>
 </div>
 
+<a id="builders-stack-dev-tools"></a>
 ## 🛠️ The Builder's Stack (Dev Tools)
 
 <details open markdown="1">
@@ -83,6 +89,7 @@ Tailored for students, but also highlighting resources that require **Faculty/Te
   </a>
 </div>
 
+<a id="security--operations-cyber"></a>
 ## 🛡️ Security & Operations (Cyber)
 
 <details open markdown="1">
@@ -107,6 +114,7 @@ Tailored for students, but also highlighting resources that require **Faculty/Te
   </a>
 </div>
 
+<a id="creative-studio-design"></a>
 ## 🎨 Creative Studio (Design)
 
 <details open markdown="1">
@@ -131,6 +139,7 @@ Tailored for students, but also highlighting resources that require **Faculty/Te
   </a>
 </div>
 
+<a id="intelligence--data-ai"></a>
 ## 🧠 Intelligence & Data (AI)
 
 <details open markdown="1">
@@ -153,6 +162,7 @@ Tailored for students, but also highlighting resources that require **Faculty/Te
   </a>
 </div>
 
+<a id="daily-drivers-productivity"></a>
 ## ⚡ Daily Drivers (Productivity)
 
 <details open markdown="1">
@@ -174,6 +184,7 @@ Tailored for students, but also highlighting resources that require **Faculty/Te
   </a>
 </div>
 
+<a id="institutional-access-faculty-required"></a>
 ## 🏫 Institutional Access (Faculty Required)
 
 <details open markdown="1">
@@ -195,6 +206,7 @@ Tailored for students, but also highlighting resources that require **Faculty/Te
   </a>
 </div>
 
+<a id="life--entertainment"></a>
 ## 🍿 Life & Entertainment
 
 <details open markdown="1">
