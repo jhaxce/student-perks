@@ -1,15 +1,28 @@
-# Pull Request Template
+## Pull Request
 
-Thank you for contributing! To keep this project consistent and easy to maintain, all community contributions should only modify `README.md`.
+### What Changed
+<!-- Briefly describe your changes -->
 
-Please use this checklist before submitting your PR:
 
-- [ ] My change only edits `README.md` (no other files were modified).
-- [ ] I added or updated a single table row (one resource per PR is preferred).
-- [ ] I provided a source link or reference for the benefit/claim.
-- [ ] I placed the new row alphabetically within the category where practical.
-- [ ] This PR description explains what changed and why.
+### Type of Change
+<!-- Check the one that applies -->
+- [ ] ➕ Added a new perk
+- [ ] ✏️ Updated an existing perk
+- [ ] 🗑️ Removed an expired/invalid perk
+- [ ] 📝 Fixed typo or improved description
 
-If you need to request a layout or ad-related change, open an issue instead and explain the reason; the maintainer will advise.
+### Checklist
+<!-- Make sure all boxes are checked before submitting -->
+- [ ] I only edited `README.md` (or `VERIFICATION.md`)
+- [ ] I followed the table format (Name, Description, Benefits, Type, Role, Link)
+- [ ] I placed the entry alphabetically within the category
+- [ ] I included a source/verification link below
 
-Thanks — small, focused PRs are easiest to review.
+### Verification
+<!-- How can maintainers verify this benefit exists? -->
+**Source URL:** 
+
+
+### Additional Notes
+<!-- Optional: screenshots, eligibility details, caveats -->
+

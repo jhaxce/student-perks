@@ -1,96 +1,84 @@
 # Contributing to Student Perks
 
-Thank you for contributing. To keep the project consistent and easy to maintain, please follow the rules below.
+Thank you for helping make this resource better for students everywhere! 🎓
 
-Short checklist
-- Fork the repo and create a branch: `git checkout -b add/<perk-name>`
-- Edit `README.md` only: add or update rows in the existing category tables.
-- Keep each PR focused to a single perk or small related fixes.
-- Open a Pull Request describing what you changed and why.
+## Quick Start
 
-Repository conventions (important)
-- The canonical content for the site lives in `README.md`. **All contributions must be edits to `README.md` only.**
+1. **Fork** the repository
+2. **Create a branch**: `git checkout -b add/<perk-name>`
+3. **Edit** `README.md` only — add your row to the appropriate category table
+4. **Commit** and push your changes
+5. **Open a Pull Request**
 
-How to add or edit a perk
-1. Fork and create a descriptive branch name: `git checkout -b add/<perk-name>`
-2. Open `README.md` and find the correct category table.
-3. Add a new row following the existing table format (Name, Description, Benefits, Type, Role/Req, Link).
-4. Place the new row alphabetically within the category where practical.
-5. Commit and push your branch, then open a Pull Request.
+---
 
-Table row example
+## What You Can Contribute
+
+| ✅ Safe to Edit | ❌ Do NOT Edit |
+|-----------------|----------------|
+| `README.md` (tables) | `docs/_layouts/` |
+| `VERIFICATION.md` | `docs/assets/css/` |
+| | `docs/assets/js/` |
+
+> **Note:** Layout, CSS, and JavaScript changes require maintainer approval. Open an issue first if you have suggestions.
+
+---
+
+## Table Row Format
+
+When adding a new perk, follow this exact format:
 
 ```markdown
-| **Tool Name** | Short description of tool. | Specific benefit (e.g. Pro Plan). | **Free** | Student (Email) | [Link](https://...) |
+| **Tool Name** | Short description | Specific benefit | **Type** | Role (How to get) | [Link](https://...) |
 ```
 
-PR guidance
-- Keep PRs small and focused (one resource per PR is ideal).
-- Provide verification details or a source link in the PR description.
-- Avoid formatting or layout changes outside `README.md`.
+### Column Definitions
 
-Contact / Maintainer
-- If unsure, open an issue or mention @jhaxce in your PR for guidance.
+| Column | What to Include |
+|--------|-----------------|
+| **Name** | Tool/service name in bold |
+| **Description** | One-line summary of what it does |
+| **Benefits** | What students get (e.g., "Pro Plan", "$100 Credit") |
+| **Type** | `Free`, `Discount`, `Credit`, or `Trial` |
+| **Role/Req** | `Student (Email)`, `Student (GitHub Pack)`, `Faculty`, etc. |
+| **Link** | Direct link to the student offer page |
 
-License
-- By contributing you agree to license your contribution under the repository's MIT License.
-# Contributing to Awesome Student Perks
+### Type Values Explained
 
-First off, thank you for considering contributing to this project! It's people like you that make this tool useful for students around the world.
-
-## ⚡ How to Contribute
-
-1.  **Fork** the repository to your own GitHub account.
-2.  **Clone** the project to your machine.
-3.  **Create a branch** locally with a succinct name:
-    * `git checkout -b add-tool-name`
-4.  **Add your resource** to the `README.md` file (see guidelines below).
-5.  **Commit** changes to the branch.
-6.  **Push** changes to your fork.
-7.  **Open a Pull Request** in our repository.
+| Value | Meaning |
+|-------|---------|
+| **Free** | Completely free for students |
+| **Discount** | Reduced price (e.g., 50% off) |
+| **Credit** | Monetary credits to spend (e.g., $100 Azure) |
+| **Trial** | Free for limited time, then paid |
 
 ---
 
-## 📏 Guidelines for Adding Tools
+## PR Guidelines
 
-To keep this list high-quality and consistent, please follow these rules:
-
-### 1. Alphabetical Order
-Please add the new tool in **alphabetical order** within its specific category.
-
-### 2. No Referral Links
-We do not accept affiliate or referral links. Please link directly to the student benefit page (e.g., `https://www.notion.so/product/notion-for-education` instead of `ref=jhaxce`).
-
-### 3. Valid Categories
-Ensure you are adding the tool to the correct section (e.g., *Cloud* vs *Developer Tools*).
+- ✅ **One perk per PR** — keeps reviews quick
+- ✅ **Include source link** — where can we verify this benefit?
+- ✅ **Alphabetical order** — place row alphabetically in the category
+- ✅ **No referral links** — link directly to the official page
+- ❌ **No formatting changes** — don't adjust table alignment or styling
 
 ---
 
-## 📝 Table Schema (Important!)
+## Updating Expired or Broken Links
 
-When adding a row to the table, please strictly adhere to these definitions for the **Type** and **Role** columns.
-
-### The `Type` Column
-| Value | Definition |
-| :--- | :--- |
-| **Free** | The product or license is completely free (e.g., GitHub Pro, JetBrains). |
-| **Discount** | You still have to pay, but it is cheaper than the normal price (e.g., Adobe CC). |
-| **Credit** | You get a specific monetary value to spend (e.g., $100 Azure Credit). |
-| **Trial** | It is free for a limited time, then you must pay (e.g., Amazon Prime 6-months). |
-
-### The `Role / Req` Column
-| Value | Definition |
-| :--- | :--- |
-| **Student** | Any individual student can claim this with an email or ID. |
-| **Faculty** | A teacher or school administrator must register/apply first. |
-
-### Example Row
-```markdown
-| **Tool Name** | Short description of tool. | Specific benefit (e.g. Pro Plan). | **Free** | Student (Email) | [Link](https://...) |
-```
+Found a dead link or expired benefit? Please:
+1. Open an issue describing the problem, OR
+2. Submit a PR to fix/remove the entry
 
 ---
-## ♻️ Updating Existing Links
-If you find a broken link or a benefit that has expired, please create a Pull Request to fix or remove it.
 
-Thank you for your help! 🎓
+## Need Help?
+
+- Open an [issue](https://github.com/jhaxce/student-perks/issues)
+- Mention [@jhaxce](https://github.com/jhaxce) in your PR
+
+---
+
+## License
+
+By contributing, you agree to license your contribution under the [MIT License](../LICENSE).

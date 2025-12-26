@@ -1,72 +1,127 @@
-# ✅ The GitHub Student Verification "Survival Guide"
+# ✅ Student Verification: The Complete Playbook
 
-**Getting rejected by the GitHub bot? You are not alone.** GitHub has significantly tightened their verification process to prevent fraud. This guide covers the "workarounds" and specific methods to get approved, even if you don't have an `.edu` email or a standard ID.
-
-> **⚠️ Warning:** Do **NOT** use fake documents, Photoshop, or "inspect element" tricks. GitHub bans accounts for fraud. This guide focuses on how to present *legitimate* documents so the bot accepts them.
+> **TL;DR:** Getting your student perks rejected? This guide covers every trick to get verified — from photo techniques to dealing with stubborn automated systems.
 
 ---
 
-## 🛑 The "Golden Rules" (Read First)
-Most rejections happen because you ignored one of these three rules.
+## 🚨 Before You Start
 
-1.  **NO VPNs:** You **must** be physically located near your campus. GitHub checks your IP address against your school's location. If you are on a VPN or Proxy, you will be auto-rejected.
-2.  **Use Your Phone:** Do not use a desktop webcam. Use your phone's rear camera. It has better focus and provides metadata that proves the photo is "live" and not edited.
-3.  **NO Scanned Documents:** GitHub no longer accepts PDF uploads or scanned images for most regions. You must take a **live photo** of the physical document.
+Most verification failures happen because of these three simple mistakes:
 
----
-
-## 🛠 Method 1: The "Context Photo" (Best for Rejected IDs)
-**The Problem:** The bot rejects your ID saying *"Image looks manipulated"* or *"Can't read text,"* even though it's real.  
-**The Fix:** You need to prove the ID exists in the real world.
-
-1.  **Set the Scene:** Open your laptop and log in to your **School Portal** (Canvas, Blackboard, or your university's SIS).
-2.  **The Setup:** Place your physical ID card **on the keyboard** of your laptop.
-3.  **The Photo:** Take a photo that captures **BOTH** the ID card and the screen showing you logged in.
-    * *Why this works:* It provides "Context." The bot sees the ID is physical (shadows, lighting) and corroborates the name on the ID with the name on the screen.
+| ❌ Common Mistake | ✅ What To Do Instead |
+|:---|:---|
+| Using a VPN or proxy | Connect from campus WiFi or home without VPN |
+| Desktop webcam photos | Use your phone's rear camera for sharper images |
+| Uploading scanned PDFs | Take a live photo of your physical document |
 
 ---
 
-## 📅 Method 2: The "Missing Date" Workaround
-**The Problem:** Your Student ID does not have an "Expiry Date" or "Current Semester" printed on it.  
-**The Fix:** You must combine documents in a single photo.
+## 🔧 Verification Methods
 
-1.  **Get a Dated Document:** Find your **Certificate of Registration (COR)**, **Study Load**, or an **Official Receipt** for the current semester.
-2.  **The "Combo" Photo:**
-    * Place the dated document flat on a table.
-    * Place your ID card **on top** of the document (don't cover the date).
-    * Take **one photo** showing both.
-    * *Note:* Circle the date on the paper lightly with a pencil if it's hard to see.
+### Method 1: The "Context Photo" Technique
+**Best for:** When your ID keeps getting rejected as "looks manipulated"
 
----
+This method proves your ID exists in the real world:
 
-## 🇵🇭 Philippines & Non-Standard Schools
-If you are from a school (e.g., STI, AMA, State Universities) that uses `.com`, `.ph`, or provides no email at all:
+1. **Open your university portal** (Canvas, Blackboard, or student information system)
+2. **Place your physical ID card on your laptop keyboard**
+3. **Take one photo** capturing both the ID and the logged-in screen
+4. **Submit this single image** — it shows your ID is real and matches your account
 
-### 1. Proof of Enrollment
-If your ID is rejected, use your **Study Load** or **COR (Certificate of Registration)**.
-* **Translation:** If your document is in Tagalog (or another local language), write the English translation on a small sticky note and stick it **next to** the relevant text (e.g., "Sy 2024-2025" -> "Current School Year"). Include the sticky note in the photo.
-
-### 2. Location Issues (Dorm vs. Home)
-If you are studying remotely (province) and your school is in Manila:
-* **Enable Location Services:** Allow the browser to access your GPS.
-* **Add a Comment:** When submitting, there is sometimes a text box. Briefly explain: *"I am a distance learning student living in [Province], attending school in [City]."*
+> **Why it works:** The bot sees shadows, reflections, and lighting that prove the ID is physical. The screen corroborates your identity.
 
 ---
 
-## 📸 Technical Checklist (Before you click Submit)
-* [ ] **Disable AdBlockers:** Extensions like uBlock Origin can block the location script GitHub uses.
-* [ ] **Lighting:** Ensure there is no glare on the ID card (glossy plastic often reflects flash). Use natural window light.
-* [ ] **Resolution:** The text must be readable when zoomed in.
-* [ ] **Time:** Ensure your system time is set to "Automatic."
+### Method 2: The "Date Combo" Technique
+**Best for:** IDs without expiry dates or semester information
+
+Many student IDs lack a printed date, which causes rejections:
+
+1. **Find a dated document** — Certificate of Registration (COR), study load, or tuition receipt
+2. **Lay the dated document flat on a table**
+3. **Place your ID card on top** (don't cover the date)
+4. **Take one photo showing both documents**
+5. Optional: Lightly circle the date in pencil if it's hard to read
 
 ---
 
-## 🆘 "I'm still getting rejected!"
-If you have failed 3+ times, the bot might be "stuck" on rejecting you.
+### Method 3: Manual Review Escalation
+**Best for:** After 3+ automated rejections
 
-1.  **Wait 2-3 Days:** Don't spam the submit button.
-2.  **Contact Support:** Open a ticket with [GitHub Education Support](https://support.github.com/contact/education).
-    * **Subject:** "Manual Verification Request - [Your Username]"
-    * **Message:** "My application was rejected by the automated system. I have attached my valid proof of enrollment here. My school does not issue .edu emails."
-    * *Attach the photo you took using Method 1.*
+When the bot is stuck on rejecting you:
 
+1. **Wait 48-72 hours** between attempts
+2. **Contact [GitHub Education Support](https://support.github.com/contact/education)**
+3. Use this template:
+
+```
+Subject: Manual Verification Request - [YourGitHubUsername]
+
+Hello,
+
+My student verification application was rejected by the automated system. 
+I have attached valid proof of enrollment. My school does not issue .edu 
+email addresses.
+
+Account: [your username]
+School: [your school name]
+Country: [your country]
+
+[Attach your Method 1 or Method 2 photo]
+
+Thank you.
+```
+
+---
+
+## 🌏 Region-Specific Guides
+
+### Philippines 🇵🇭
+Schools like STI, AMA, and state universities often use `.com` or `.ph` domains:
+
+| Document | Use Case | Notes |
+|:---|:---|:---|
+| Study Load / COR | Primary proof for IDs without dates | Add English translation on sticky note if in Filipino |
+| School Receipt | Alternative dated document | Must show current semester |
+| Enrollment Certificate | Formal backup option | Request from registrar if needed |
+
+**Distance learners:** Enable GPS location services and add a note explaining: *"I am a distance learning student in [Province], enrolled at [School] in [City]."*
+
+---
+
+## 📸 Photo Checklist
+
+Run through this before submitting:
+
+- [ ] **No VPN active** — Disconnect completely
+- [ ] **Location services enabled** — Browser must detect your location
+- [ ] **Disable adblockers** — uBlock Origin can interfere with scripts
+- [ ] **Natural lighting** — Avoid flash glare on glossy IDs
+- [ ] **Readable text** — Zoom in to confirm all text is sharp
+- [ ] **Automatic time** — System clock must be synced
+
+---
+
+## 🔁 Troubleshooting
+
+| Problem | Solution |
+|:---|:---|
+| "Image looks manipulated" | Use Method 1 (Context Photo) |
+| "Cannot read text" | Improve lighting, use rear camera, avoid shadows |
+| "Date not found" | Use Method 2 (Date Combo) with dated document |
+| "Location mismatch" | Disable VPN, enable GPS, try again on campus |
+| Rejected multiple times | Wait 3 days, then use Method 3 (Manual Review) |
+
+---
+
+## 🆘 Still Stuck?
+
+Open a discussion in the [GitHub Discussions](https://github.com/jhaxce/student-perks/discussions) or create an issue. Include:
+- Your country
+- Type of school (university, college, vocational)
+- What verification method you've tried
+- Any error messages received (screenshot if possible)
+
+---
+
+*This guide is maintained by the Student Perks community. If you found a new verification trick that worked for you, consider contributing!*

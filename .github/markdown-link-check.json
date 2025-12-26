@@ -1,0 +1,26 @@
+{
+  "retryOn429": true,
+  "retryCount": 3,
+  "fallbackRetryDelay": "30s",
+  "aliveStatusCodes": [200, 206, 301, 302, 303, 307, 308],
+  "ignorePatterns": [
+    {
+      "pattern": "^https://github.com/jhaxce"
+    },
+    {
+      "pattern": "^https://education.github.com"
+    },
+    {
+      "pattern": "^#"
+    }
+  ],
+  "httpHeaders": [
+    {
+      "urls": ["https://"],
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (compatible; GitHub-Actions-Link-Checker)"
+      }
+    }
+  ],
+  "timeout": "20s"
+}

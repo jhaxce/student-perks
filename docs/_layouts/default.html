@@ -6,60 +6,82 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ page.title }} | {{ site.title | default: "Student Perks" }}</title>
   <meta name="description"
-    content="{{ site.description | default: 'Curated student discounts and resources for students.' }}">
+    content="{{ page.description | default: site.description | default: 'Curated student discounts and resources for students.' }}">
 
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+  <!-- Theme Color -->
+  <meta name="theme-color" content="#0a0f1a" media="(prefers-color-scheme: dark)">
+  <meta name="theme-color" content="#f8fafc" media="(prefers-color-scheme: light)">
+
+  <!-- Favicon -->
+  <link rel="icon"
+    href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎓</text></svg>">
+
+  <!-- Stylesheet -->
+  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+
+  <!-- AdSense -->
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9941671993779611"
     crossorigin="anonymous"></script>
-
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&display=swap" rel="stylesheet">
-  <meta name="theme-color" content="#0f1724">
-  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
 
 <body>
-
   <a class="skip-link" href="#main-content">Skip to content</a>
 
-  <div class="container">
-    <div class="nav-header">
-      <div class="nav-title">
-        <h1><a href="{{ '/' | relative_url }}">🎓 Student Perks</a></h1>
-      </div>
-      <div class="nav-links">
-        <a href="{{ '/' | relative_url }}">Home</a>
-        <a href="{{ '/verification/' | relative_url }}">Verification</a>
-        <a href="https://github.com/jhaxce/student-perks">GitHub</a>
-      </div>
+  <!-- Navigation -->
+  <header class="nav-header">
+    <div class="nav-title">
+      <h1><a href="{{ '/' | relative_url }}">🎓 Student Perks</a></h1>
     </div>
+    <button class="nav-toggle" aria-label="Toggle menu" onclick="this.nextElementSibling.classList.toggle('active')">
+      ☰
+    </button>
+    <nav class="nav-links" role="navigation">
+      <a href="{{ '/' | relative_url }}">Home</a>
+      <a href="{{ '/verification/' | relative_url }}">Verification</a>
+      <a href="https://github.com/jhaxce/student-perks" target="_blank" rel="noopener">GitHub</a>
+    </nav>
+  </header>
 
-    <div class="ad-container">
+  <div class="container">
+    <!-- Top Ad -->
+    <aside class="ad-container" aria-label="Advertisement">
       <p>Advertisement</p>
       <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-9941671993779611" data-ad-slot="5242004147"
         data-ad-format="auto" data-full-width-responsive="true"></ins>
       <script>
         (adsbygoogle = window.adsbygoogle || []).push({});
       </script>
-    </div>
+    </aside>
 
+    <!-- Main Content -->
     <main id="main-content">
       {{ content }}
     </main>
 
-    <div class="ad-container">
+    <!-- Bottom Ad -->
+    <aside class="ad-container" aria-label="Advertisement">
       <p>Advertisement</p>
       <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-9941671993779611" data-ad-slot="3928922479"
         data-ad-format="auto" data-full-width-responsive="true"></ins>
       <script>
         (adsbygoogle = window.adsbygoogle || []).push({});
       </script>
-    </div>
+    </aside>
 
+    <!-- Footer -->
     <footer>
-      <p>Maintained by <a href="https://github.com/jhaxce">Jhaxce</a></p>
+      <p>Maintained by <a href="https://github.com/jhaxce">Jhaxce</a> · <a
+          href="https://github.com/jhaxce/student-perks">Contribute on GitHub</a></p>
     </footer>
   </div>
 
+  <!-- Main Script -->
+  <script src="{{ '/assets/js/main.js' | relative_url }}" defer></script>
 </body>
 
 </html>

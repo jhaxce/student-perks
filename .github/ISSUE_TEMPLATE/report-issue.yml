@@ -1,0 +1,29 @@
+---
+name: "🐛 Report Issue"
+about: "Report a broken link, expired benefit, or incorrect information"
+title: "[FIX] "
+labels: ["bug"]
+assignees: ""
+---
+
+## What's Wrong?
+<!-- Describe the issue -->
+
+
+## Affected Perk
+**Name:** 
+**Category:** 
+
+## Details
+- [ ] Link is broken/dead
+- [ ] Benefit has expired
+- [ ] Information is incorrect
+- [ ] Other
+
+## Suggested Fix
+<!-- If you know the correct info, share it here -->
+
+
+## Source
+<!-- How did you discover this issue? -->
+

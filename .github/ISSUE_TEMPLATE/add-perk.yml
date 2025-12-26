@@ -1,0 +1,38 @@
+---
+name: "➕ Add New Perk"
+about: "Suggest a new student benefit to add to the list"
+title: "[ADD] "
+labels: ["enhancement", "perk-request"]
+assignees: ""
+---
+
+## Perk Details
+
+**Name:** 
+**Category:** <!-- Cloud, Dev Tools, Security, Design, AI, Productivity, etc. -->
+**Website:** 
+
+## Benefits for Students
+<!-- What do students get? -->
+
+
+## Proposed Table Row
+```markdown
+| **Name** | Description | Benefits | **Type** | Role/Req | [Link](url) |
+```
+
+## Verification
+**How can we verify this benefit exists?**
+<!-- Link to official student page, screenshot, etc. -->
+
+
+## Type
+<!-- Check one -->
+- [ ] Free — Completely free for students
+- [ ] Discount — Reduced price
+- [ ] Credit — Monetary credits
+- [ ] Trial — Free for limited time
+
+## Additional Notes
+<!-- Optional: eligibility requirements, expiration, etc. -->
+
