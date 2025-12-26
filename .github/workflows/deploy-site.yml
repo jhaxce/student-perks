@@ -23,7 +23,6 @@ jobs:
   validate:
     name: Validate Content
     runs-on: ubuntu-latest
-    # This job never blocks other jobs
     continue-on-error: true
     steps:
       - name: Checkout
@@ -47,12 +46,11 @@ jobs:
         continue-on-error: true
 
   # ------------------------------------------------------------------
-  # JOB 2: Build Site (runs in parallel with validate)
+  # JOB 2: Build Site
   # ------------------------------------------------------------------
   build:
     name: Build Jekyll Site
     runs-on: ubuntu-latest
-    # NO "needs: validate" - runs independently!
     if: github.event_name == 'push' || github.event_name == 'workflow_dispatch'
     steps:
       - name: Checkout
@@ -68,30 +66,18 @@ jobs:
           mkdir -p docs/verification
           
           # Sync README.md
-          if [ ! -f docs/README.md ] || ! cmp -s README.md docs/README.md; then
-            cp README.md docs/README.md
-            echo "✅ Synced README.md"
-          fi
+          cp README.md docs/README.md
+          echo "✅ Synced README.md"
           
-          # Sync VERIFICATION.md
-          if [ ! -f docs/verification/VERIFICATION.md ] || ! cmp -s VERIFICATION.md docs/verification/VERIFICATION.md; then
-            cp VERIFICATION.md docs/verification/VERIFICATION.md
-            echo "✅ Synced VERIFICATION.md"
-          fi
-
-      - name: Setup Ruby
-        uses: ruby/setup-ruby@v1
-        with:
-          ruby-version: '3.2'
-          bundler-cache: true
-          working-directory: docs
+          # Sync VERIFICATION.md  
+          cp VERIFICATION.md docs/verification/VERIFICATION.md
+          echo "✅ Synced VERIFICATION.md"
 
       - name: Build with Jekyll
-        run: |
-          cd docs
-          bundle exec jekyll build --destination ../_site
-        env:
-          JEKYLL_ENV: production
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./docs
+          destination: ./_site
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
