@@ -13,9 +13,24 @@
 
 @media (prefers-color-scheme: light) {
   :root {
+    --bg: #0b1220;
+    --panel: #0f1724;
+    --panel-2: #0d1522;
+    --muted: #94a3b8;
+    --text: #e6eef8;
+    --accent: #48a0ff;
+    --table-border: rgba(255,255,255,0.06);
+    --code-bg: rgba(255,255,255,0.03);
+    --radius: 10px;
+    --max-width: 1100px;
+    --content-gap: 28px;
+  }
+  :root {
     --bg: #ffffff;
     --panel: #ffffff;
     --muted: #6b7280;
+    /* smoother gradient with a gentle step to avoid a visible seam */
+    background: linear-gradient(180deg, var(--bg) 0%, var(--panel-2) 50%, var(--panel) 100%);
     --text: #0f1724;
     --accent: #0b6cf0;
     --table-border: rgba(15,23,36,0.06);
@@ -28,15 +43,19 @@ html, body {
   background: linear-gradient(180deg, var(--bg), var(--panel));
   color: var(--text);
   margin: 0;
-  font-family: Inter, ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+    border-bottom: 1px solid rgba(255,255,255,0.02);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-}
+  .ad-container { background: linear-gradient(180deg, rgba(255,255,255,0.007), rgba(255,255,255,0.003)); padding:18px; border-radius:8px; text-align:center; margin: 26px 0; box-shadow: 0 1px 0 rgba(255,255,255,0.02) inset; }
 
 .container {
   max-width: var(--max-width);
   margin: 0 auto;
   padding: var(--content-gap) 20px;
+  .table-wrapper { width:100%; margin: 0 0 1.5rem 0; background: linear-gradient(180deg, rgba(255,255,255,0.005), rgba(255,255,255,0.002)); padding: 8px; border-radius: 10px; box-shadow: 0 6px 18px rgba(2,6,23,0.45); }
+  .table-wrapper table { width:100%; border-collapse: collapse; font-size:0.95rem; }
+  .table-wrapper thead th { background: rgba(255,255,255,0.02); color: var(--text); padding:12px; text-align:left; border-bottom:1px solid var(--table-border); }
+  .table-wrapper tbody td { padding:12px; border-top:1px solid var(--table-border); color: var(--text); }
 }
 
 a { color: var(--accent); text-decoration: none; }
@@ -48,7 +67,29 @@ a:hover { text-decoration: underline; }
   justify-content: space-between;
   gap: 16px;
   padding-bottom: 10px;
+  .table-wrapper::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 36px;
+    height: 100%;
+    pointer-events: none;
+    /* subtle fade to panel color (matches background) */
+    background: linear-gradient(90deg, rgba(13,21,34,0) 0%, rgba(13,21,34,0.65) 100%);
+  }
   margin-bottom: 22px;
+
+  /* Mobile adjustments: reduce padding and allow natural wrapping to avoid cramped cells */
+  @media (max-width: 640px) {
+    .table-wrapper { padding: 6px; border-radius: 8px; box-shadow: none; }
+    .table-wrapper table { font-size: 0.92rem; }
+    .table-wrapper thead th, .table-wrapper tbody td { padding: 8px; }
+    /* allow scrolling when content is wider than viewport */
+    .table-wrapper { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+    /* reduce top/bottom gaps so table feels less cramped */
+    .container { padding: 18px; }
+  }
   border-bottom: 1px solid rgba(255,255,255,0.03);
 }
 
