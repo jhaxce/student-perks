@@ -8,6 +8,7 @@
   --code-bg: rgba(255,255,255,0.03);
   --radius: 10px;
   --max-width: 1100px;
+  --content-gap: 28px;
 }
 
 @media (prefers-color-scheme: light) {
@@ -35,7 +36,7 @@ html, body {
 .container {
   max-width: var(--max-width);
   margin: 0 auto;
-  padding: 28px 20px;
+  padding: var(--content-gap) 20px;
 }
 
 a { color: var(--accent); text-decoration: none; }
@@ -61,9 +62,11 @@ a:hover { text-decoration: underline; }
 
 main { background: transparent; }
 
-table { width:100%; border-collapse: collapse; font-size:0.95rem; margin: 0 0 1.5rem 0; }
-thead th { background: rgba(255,255,255,0.02); color: var(--text); padding:12px; text-align:left; border-bottom:1px solid var(--table-border); }
-tbody td { padding:12px; border-top:1px solid var(--table-border); color: var(--text); }
+/* Tables: desktop layout + responsive scrolling on small screens */
+.table-wrapper { width:100%; margin: 0 0 1.5rem 0; }
+.table-wrapper table { width:100%; border-collapse: collapse; font-size:0.95rem; }
+.table-wrapper thead th { background: rgba(255,255,255,0.02); color: var(--text); padding:12px; text-align:left; border-bottom:1px solid var(--table-border); }
+.table-wrapper tbody td { padding:12px; border-top:1px solid var(--table-border); color: var(--text); }
 
 h1, h2, h3 { color: var(--text); margin-top: 1.15rem; }
 h1 { font-size: 1.6rem; }
@@ -73,8 +76,30 @@ pre { padding: 14px; overflow-x:auto; }
 
 blockquote { border-left: 3px solid rgba(255,255,255,0.04); padding: 8px 12px; color: var(--muted); background: rgba(255,255,255,0.01); border-radius:8px; }
 
-details { background: rgba(255,255,255,0.01); padding: 8px 12px; border-radius:8px; margin-bottom: 8px; }
-summary { cursor: pointer; outline: none; font-weight:600; }
+
+/* responsive table behavior: on small viewports make table scrollable without cramming */
+/* We wrap tables inside a `.table-wrapper` block (handled via CSS) and allow horizontal scroll */
+.table-wrapper {
+  display: block;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  position: relative;
+}
+
+/* subtle fade at the right to indicate overflow (uses gradient mask) */
+.table-wrapper::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 48px;
+  height: 100%;
+  pointer-events: none;
+  background: linear-gradient(90deg, rgba(15,23,36,0) 0%, rgba(15,23,36,0.75) 100%);
+  mix-blend-mode: overlay;
+}
+
+th, td { white-space: normal; word-break: break-word; }
 
 footer { color: var(--muted); text-align:center; padding:22px 0; }
 
