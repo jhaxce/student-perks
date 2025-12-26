@@ -145,6 +145,7 @@ A definitive collection of premium software, cloud infrastructure, and professio
 | **PentesterLab** | Web Security Labs | Student Discount | **Discount** | Student | [Link](https://pentesterlab.com/) |
 | **Shodan** | IoT Search Engine | Membership Upgrade | **Free** | Student (.edu Email) | [Link](https://www.shodan.io/) |
 | **Maltego** | OSINT Graphing | Classic Plan | **Free** | Student (Application) | [Link](https://www.maltego.com/education/) |
+| **Nessus** | Vulnerability Scanner | Essentials (20 IPs, 1 Year) | **Free** | Student/Instructor (Verified) | [Link](https://www.tenable.com/products/nessus/nessus-essentials) |
 | **Cryptohack** | Cryptography Labs | Education Access | **Free** | Open to All | [Link](https://cryptohack.org/) |
 | **OverTheWire** | Wargames | Free Access | **Free** | Open to All | [Link](https://overthewire.org/) |
 | **PicoCTF** | CTF Platform | Free Practice | **Free** | Open to All | [Link](https://picoctf.org/) |
@@ -212,7 +213,7 @@ A definitive collection of premium software, cloud infrastructure, and professio
 | **MATLAB** | Technical Computing | Student License | **Discount** | Student | [Link](https://www.mathworks.com/academia/students.html) |
 | **Deepnote** | Data Notebooks | Pro Team Plan | **Free** | Student | [Link](https://deepnote.com/education) |
 | **DataCamp** | Data Science Courses | 3 Months Free | **Free** | Student (GitHub Pack) | [Link](https://www.datacamp.com/) |
-| **Wolfram|Alpha** | Computational Engine | Pro Features | **Discount** | Student | [Link](https://www.wolframalpha.com/) |
+| **Wolfram\|Alpha** | Computational Engine | Pro Features | **Discount** | Student | [Link](https://www.wolframalpha.com/) |
 | **SQLGate** | SQL IDE | Standard Subscription | **Free** | Student (GitHub Pack) | [Link](https://www.sqlgate.com/) |
 
 </details>
