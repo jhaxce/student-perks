@@ -349,6 +349,7 @@ A definitive collection of premium software, cloud infrastructure, and professio
 | **IBM Academic Initiative** | Cloud/AI/ML | Free Tools & Platforms | **Free** | **Faculty Reg** | [Link](https://www.ibm.com/academic) |
 | **VMware IT Academy** | Virtualization | Licensed Software | **Free** | **Institution Reg** | [Link](https://www.vmware.com/resources/compatibility/sim/interop_matrix.php) |
 | **Cisco Networking Academy** | Networking | Full Courseware | **Free** | **Institution Reg** | [Link](https://www.netacad.com/) |
+| **cPanel** | Web Hosting Panel | Education License | **Free** | **Institution App** | [Link](https://input.cpanel.net/s3/edu) |
 
 </details>
 
