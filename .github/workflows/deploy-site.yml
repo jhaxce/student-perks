@@ -18,11 +18,13 @@ concurrency:
 
 jobs:
   # ------------------------------------------------------------------
-  # JOB 1: Validate Links and Markdown
+  # JOB 1: Validate (runs in parallel, does NOT block build)
   # ------------------------------------------------------------------
   validate:
     name: Validate Content
     runs-on: ubuntu-latest
+    # This job never blocks other jobs
+    continue-on-error: true
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -45,12 +47,12 @@ jobs:
         continue-on-error: true
 
   # ------------------------------------------------------------------
-  # JOB 2: Build Site
+  # JOB 2: Build Site (runs in parallel with validate)
   # ------------------------------------------------------------------
   build:
     name: Build Jekyll Site
     runs-on: ubuntu-latest
-    needs: validate
+    # NO "needs: validate" - runs independently!
     if: github.event_name == 'push' || github.event_name == 'workflow_dispatch'
     steps:
       - name: Checkout

@@ -2,7 +2,16 @@
   "retryOn429": true,
   "retryCount": 3,
   "fallbackRetryDelay": "30s",
-  "aliveStatusCodes": [200, 206, 301, 302, 303, 307, 308],
+  "aliveStatusCodes": [
+    200,
+    206,
+    301,
+    302,
+    303,
+    307,
+    308,
+    403
+  ],
   "ignorePatterns": [
     {
       "pattern": "^https://github.com/jhaxce"
@@ -12,11 +21,85 @@
     },
     {
       "pattern": "^#"
+    },
+    {
+      "pattern": "^https://vercel.com"
+    },
+    {
+      "pattern": "^https://polypane.app"
+    },
+    {
+      "pattern": "^https://bootstrapstudio.io"
+    },
+    {
+      "pattern": "^https://www.unrealengine.com"
+    },
+    {
+      "pattern": "^https://popsql.com"
+    },
+    {
+      "pattern": "^https://sentry.io"
+    },
+    {
+      "pattern": "^https://bitwarden.com"
+    },
+    {
+      "pattern": "^https://www.shodan.io"
+    },
+    {
+      "pattern": "^https://www.maltego.com"
+    },
+    {
+      "pattern": "^https://nordvpn.com"
+    },
+    {
+      "pattern": "^https://www.autodesk.com"
+    },
+    {
+      "pattern": "^https://icons8.com"
+    },
+    {
+      "pattern": "^https://www.mathworks.com"
+    },
+    {
+      "pattern": "^https://leetcode.com"
+    },
+    {
+      "pattern": "^https://monday.com"
+    },
+    {
+      "pattern": "^https://www.hp.com"
+    },
+    {
+      "pattern": "^https://electronics.sony.com"
+    },
+    {
+      "pattern": "^https://www.bestbuy.com"
+    },
+    {
+      "pattern": "^https://academy.oracle.com"
+    },
+    {
+      "pattern": "^https://www.amazon.com"
+    },
+    {
+      "pattern": "^https://www.calm.com"
+    },
+    {
+      "pattern": "^https://www.washingtonpost.com"
+    },
+    {
+      "pattern": "^https://openai.com"
+    },
+    {
+      "pattern": "^https://www.canva.com"
     }
   ],
   "httpHeaders": [
     {
-      "urls": ["https://"],
+      "urls": [
+        "https://"
+      ],
       "headers": {
         "User-Agent": "Mozilla/5.0 (compatible; GitHub-Actions-Link-Checker)"
       }

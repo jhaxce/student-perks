@@ -19,6 +19,7 @@ Most verification failures happen because of these three simple mistakes:
 ## 🔧 Verification Methods
 
 ### Method 1: The "Context Photo" Technique
+
 **Best for:** When your ID keeps getting rejected as "looks manipulated"
 
 This method proves your ID exists in the real world:
@@ -33,6 +34,7 @@ This method proves your ID exists in the real world:
 ---
 
 ### Method 2: The "Date Combo" Technique
+
 **Best for:** IDs without expiry dates or semester information
 
 Many student IDs lack a printed date, which causes rejections:
@@ -46,6 +48,7 @@ Many student IDs lack a printed date, which causes rejections:
 ---
 
 ### Method 3: Manual Review Escalation
+
 **Best for:** After 3+ automated rejections
 
 When the bot is stuck on rejecting you:
@@ -54,7 +57,7 @@ When the bot is stuck on rejecting you:
 2. **Contact [GitHub Education Support](https://support.github.com/contact/education)**
 3. Use this template:
 
-```
+```text
 Subject: Manual Verification Request - [YourGitHubUsername]
 
 Hello,
@@ -77,6 +80,7 @@ Thank you.
 ## 🌏 Region-Specific Guides
 
 ### Philippines 🇵🇭
+
 Schools like STI, AMA, and state universities often use `.com` or `.ph` domains:
 
 | Document | Use Case | Notes |
@@ -117,6 +121,7 @@ Run through this before submitting:
 ## 🆘 Still Stuck?
 
 Open a discussion in the [GitHub Discussions](https://github.com/jhaxce/student-perks/discussions) or create an issue. Include:
+
 - Your country
 - Type of school (university, college, vocational)
 - What verification method you've tried

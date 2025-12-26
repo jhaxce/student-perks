@@ -6,7 +6,7 @@ This repository is a Jekyll-based static site hosted on GitHub Pages. The canoni
 
 ## Repository Architecture
 
-```
+```text
 Root (GitHub Repo)              ──► CI copies to docs/
 ├── README.md                   ──► docs/README.md
 ├── VERIFICATION.md             ──► docs/VERIFICATION/VERIFICATION.md
@@ -14,7 +14,7 @@ Root (GitHub Repo)              ──► CI copies to docs/
     ├── _config.yml             Jekyll config
     ├── _layouts/default.html   Site layout (nav, ads, footer)
     ├── assets/
-    │   ├── css/main.css       Modern CSS design system
+    │   ├── css/style.css       Modern CSS design system
     │   └── js/main.js          Site functionality
     ├── index.md                Includes README.md
     └── verification/index.md   Includes VERIFICATION.md
@@ -23,26 +23,29 @@ Root (GitHub Repo)              ──► CI copies to docs/
 ## Key Rules
 
 ### What to Edit
+
 | Safe to Edit | Do NOT Edit |
 |--------------|-------------|
 | `README.md` (tables, content) | `_layouts/default.html` |
-| `VERIFICATION.md` | `assets/css/main.css` |
+| `VERIFICATION.md` | `assets/css/style.css` |
 | `.github/CONTRIBUTING.md` | `assets/js/main.js` |
 | | `_config.yml` |
 
 ### Table Format
+
 Follow this exact column order when adding perks:
 
 ```markdown
 | **Name** | Description | Benefits | **Type** | Role/Req | [Link](url) |
 ```
 
-**Type values:** `Free`, `Discount`, `Credit`, `Trial`  
+**Type values:** `Free`, `Discount`, `Credit`, `Trial`
 **Role values:** `Student (Email)`, `Student (GitHub Pack)`, `Faculty`
 
 ## CSS Design System
 
 The site uses CSS variables for theming. Key variables:
+
 - `--bg-primary`, `--bg-secondary` — backgrounds
 - `--accent`, `--accent-hover` — link colors
 - `--text-primary`, `--text-secondary` — text colors
@@ -52,6 +55,7 @@ The CSS supports both dark and light modes via `prefers-color-scheme`.
 ## Deployment
 
 The CI workflow (`.github/workflows/deploy-site.yml`):
+
 1. Copies `README.md` → `docs/README.md`
 2. Copies `VERIFICATION.md` → `docs/VERIFICATION/VERIFICATION.md`
 3. Builds Jekyll from `docs/`

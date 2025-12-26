@@ -7,9 +7,9 @@
 [Browse Resources](#-categories) · [Verification Guide](./VERIFICATION.md) · [Contribute](./.github/CONTRIBUTING.md)
 
 <p>
-  <a href="https://github.com/jhaxce"><img src="https://img.shields.io/badge/Maintainer-Jhaxce-blue?style=for-the-badge" /></a>
-  <a href="./LICENSE"><img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" /></a>
-  <a href="./VERIFICATION.md"><img src="https://img.shields.io/badge/Guide-Verification-orange?style=for-the-badge" /></a>
+  <a href="https://github.com/jhaxce"><img src="https://img.shields.io/badge/Maintainer-Jhaxce-blue?style=for-the-badge" alt="Maintainer" /></a>
+  <a href="./LICENSE"><img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License" /></a>
+  <a href="./VERIFICATION.md"><img src="https://img.shields.io/badge/Guide-Verification-orange?style=for-the-badge" alt="Verification Guide" /></a>
 </p>
 
 </div>
@@ -21,7 +21,8 @@
 A definitive collection of premium software, cloud infrastructure, and professional tools available **for free** to students worldwide. Designed to eliminate financial barriers and empower learners with industry-grade resources using just a **student ID or university email**.
 
 **What sets this apart:**
-- 📋 **Detailed benefit breakdowns** — Know exactly what you're getting  
+
+- 📋 **Detailed benefit breakdowns** — Know exactly what you're getting
 - 🏷️ **Type classification** — Quickly identify Free vs Credit vs Discount offerings
 - 🔐 **Verification requirements** — See what proof each service needs
 - 🏫 **Faculty-gated resources** — Separate section for institutional access
