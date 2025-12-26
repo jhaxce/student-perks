@@ -408,6 +408,24 @@ See [`.github/CONTRIBUTING.md`](./.github/CONTRIBUTING.md) for detailed guidelin
 
 ---
 
+## 📚 Resources
+
+<details markdown="1">
+<summary>Inspiration, credits, and related projects</summary>
+
+This project was inspired by and includes resources from:
+
+| Source | Description | License |
+|:-------|:------------|:--------|
+| [awesome-student-resources](https://github.com/Shashwat-19/awesome-student-resources/) | Template inspiration | MIT |
+| [GitHub Education Pack](https://education.github.com/pack) | Official GitHub student offers | — |
+
+Special thanks to the open-source community for maintaining these resources!
+
+</details>
+
+---
+
 ## 📜 License
 
 This project is distributed under the [MIT License](./LICENSE).
