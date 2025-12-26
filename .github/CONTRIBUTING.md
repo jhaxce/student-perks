@@ -67,6 +67,7 @@ When adding a new perk, follow this exact format:
 ## Updating Expired or Broken Links
 
 Found a dead link or expired benefit? Please:
+
 1. Open an issue describing the problem, OR
 2. Submit a PR to fix/remove the entry
 
