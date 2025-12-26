@@ -62,16 +62,17 @@ A definitive collection of premium software, cloud infrastructure, and professio
 | **IBM Cloud** | Enterprise Cloud | $200 First Month + 40+ Free Services | **Credit** | Student (Email) | [Link](https://www.ibm.com/cloud/free) |
 | **Oracle Cloud** | Cloud Infrastructure | $300 Trial + Always-Free VMs | **Credit** | Open to All | [Link](https://www.oracle.com/cloud/free/) |
 | **Heroku** | PaaS Deployment | $13/mo Credit (2 Years) | **Credit** | Student (GitHub Pack) | [Link](https://www.heroku.com/github-students) |
-| **Vercel** | Frontend Hosting | Pro Plan Free | **Free** | Student | [Link](https://vercel.com/guides/vercel-for-education) |
-| **Netlify** | Jamstack Hosting | Pro Plan (Selected Schools) | **Free** | Student | [Link](https://www.netlify.com/) |
-| **Railway** | App Deployment | $5/mo Credits | **Credit** | Student (GitHub Pack) | [Link](https://railway.app/) |
-| **Render** | Cloud Hosting | Free Tier + Student Credits | **Credit** | Student | [Link](https://render.com/) |
+| **Vercel** | Frontend Hosting | Hobby Plan (Free Forever) | **Free** | Open to All | [Link](https://vercel.com/pricing) |
+| **v0.app** | AI UI Generator | 1 Year Premium | **Free** | Student (Verified) | [Link](https://v0.dev/students) |
+| **Netlify** | Jamstack Hosting | Pro Plan (Open Source) | **Free** | Open Source | [Link](https://opensource-form.netlify.com/) |
+| **Railway** | App Deployment | $5 Trial Credit | **Trial** | Open to All | [Link](https://railway.app/pricing) |
+| **Render** | Cloud Hosting | Free Tier | **Free** | Open to All | [Link](https://render.com/pricing) |
 | **Namecheap** | Domains & SSL | 1 Free `.me` Domain + SSL | **Free** | Student (GitHub Pack) | [Link](https://nc.me/) |
-| **Name.com** | Domains | 1 Free Domain (`.live`, `.studio`) | **Free** | Student (GitHub Pack) | [Link](https://www.name.com/partner/github-students) |
+| **Name.com** | Domains | 1 Free Domain (`.dev`, `.app`) | **Free** | Student (GitHub Pack) | [Link](https://www.name.com/partner/github-students) |
 | **MongoDB Atlas** | NoSQL Database | $50 Credits + Free Cluster | **Credit** | Student (GitHub Pack) | [Link](https://www.mongodb.com/students) |
 | **PlanetScale** | MySQL Database | Free Hobby Tier | **Free** | Open to All | [Link](https://planetscale.com/) |
-| **Supabase** | PostgreSQL Backend | Free Tier + Pro Features | **Free** | Open to All | [Link](https://supabase.com/) |
-| **Cloudflare** | CDN & Security | Free Plan + Education Program | **Free** | Student | [Link](https://www.cloudflare.com/) |
+| **Supabase** | PostgreSQL Backend | Free Tier | **Free** | Open to All | [Link](https://supabase.com/) |
+| **Cloudflare** | CDN & Security | Free Plan + Education Program | **Free** | Student | [Link](https://www.cloudflare.com/en-gb/students/) |
 
 </details>
 
@@ -96,27 +97,26 @@ A definitive collection of premium software, cloud infrastructure, and professio
 | **GitHub Copilot** | AI Pair Programmer | Full Pro Access | **Free** | Student (GitHub Pack) | [Link](https://github.com/features/copilot) |
 | **JetBrains** | IDE Suite | All Products Free (IntelliJ, PyCharm, etc.) | **Free** | Student (Email/ISIC) | [Link](https://www.jetbrains.com/community/education/#students) |
 | **Visual Studio** | Microsoft IDE | Professional/Enterprise Features | **Free** | Student (Email) | [Link](https://visualstudio.microsoft.com/students/) |
-| **GitKraken** | Git GUI Client | Pro License | **Free** | Student (GitHub Pack) | [Link](https://www.gitkraken.com/github-student-developer-pack) |
+| **GitKraken** | Git GUI Client | Pro License | **Free** | Student (GitHub Pack) | [Link](https://www.gitkraken.com/github-student-developer-pack-bundle) |
 | **GitLens Pro** | VS Code Git Extension | Pro Features | **Free** | Student (GitHub Pack) | [Link](https://www.gitkraken.com/gitlens) |
 | **Tower** | Git Client (Mac/Win) | Pro License | **Free** | Student (Email) | [Link](https://www.git-tower.com/students) |
 | **Termius** | SSH/SFTP Client | Premium (Mobile/Desktop) | **Free** | Student (GitHub Pack) | [Link](https://termius.com/education) |
-| **Postman** | API Platform | Pro Features | **Free** | Student | [Link](https://www.postman.com/company/student-program/) |
+| **Postman** | API Platform | Pro Features | **Free** | Student | [Link](https://www.postman.com/student-program/) |
 | **Insomnia** | API Client | Free Plan | **Free** | Open to All | [Link](https://insomnia.rest/) |
-| **Polypane** | Dev Browser | Student License | **Free** | Student (Email) | [Link](https://polypane.app/education) |
-| **Replit** | Online IDE | Hacker Plan | **Free** | Student (GitHub Pack) | [Link](https://replit.com/site/github-students) |
-| **CodeSandbox** | Online IDE | Pro Features | **Free** | Student | [Link](https://codesandbox.io/) |
-| **Bootstrap Studio** | Web Design Tool | License | **Free** | Student (GitHub Pack) | [Link](https://bootstrapstudio.io/student) |
+| **Polypane** | Dev Browser | Student License | **Free** | Student (GitHub Pack) | [Link](https://polypane.app/github-students/) |
+| **Replit** | Online IDE | $15/mo Off (6 Months) | **Discount** | Student (Email) | [Link](https://replit.com/pricing) |
+| **CodeSandbox** | Online IDE | Pro Features | **Discount** | Student | [Link](https://codesandbox.io/docs/learn/plans/education-plans) |
+| **Bootstrap Studio** | Web Design Tool | License | **Free** | Student (GitHub Pack) | [Link](https://bootstrapstudio.io/pages/student-license) |
 | **Unity** | Game Engine | Student Plan | **Free** | Student (SheerID) | [Link](https://unity.com/products/unity-student) |
 | **Unreal Engine** | Game Engine | Full Access | **Free** | Open to All | [Link](https://www.unrealengine.com/) |
 | **Navicat** | DB Admin Tool | 1 Year License | **Free** | Student (ID Scan) | [Link](https://www.navicat.com/en/sponsorship/education/student) |
-| **PopSQL** | SQL Editor | Premium Plan | **Free** | Student (GitHub Pack) | [Link](https://popsql.com/education) |
-| **Working Copy** | iOS Git Client | Pro Features | **Free** | Student (Email) | [Link](https://workingcopy.app/) |
-| **Sentry** | Error Monitoring | 500K Events/Month | **Free** | Student (GitHub Pack) | [Link](https://sentry.io/for/github-students) |
-| **Codecov** | Code Coverage | Free for Students | **Free** | Student (GitHub Pack) | [Link](https://codecov.io/) |
-| **DeepSource** | Static Analysis | Free for Students | **Free** | Student | [Link](https://deepsource.io/) |
-| **Snyk** | Security Scanning | Free Premium | **Free** | Student | [Link](https://snyk.io/) |
-| **SendGrid** | Email API | 15K Emails/Month | **Credit** | Student (GitHub Pack) | [Link](https://education.github.com/pack) |
-| **Twilio** | Communications API | $50 Credits | **Credit** | Student (GitHub Pack) | [Link](https://www.twilio.com/) |
+| **PopSQL** | SQL Editor | Premium Plan | **Free** | Student (GitHub Pack) | [Link](https://popsql.com/github-students) |
+| **Working Copy** | iOS Git Client | Pro Features | **Free** | Student (Email) | [Link](https://workingcopy.app/education/) |
+| **Sentry** | Error Monitoring | 500K Events/Month | **Free** | Student | [Link](https://sentry.io/for/education/) |
+| **Codecov** | Code Coverage | Free for Students | **Free** | Student | [Link](https://about.codecov.io/for/education/) |
+| **DeepSource** | Static Analysis | Free for Students | **Free** | Student | [Link](https://deepsource.com/blog/deepsource-gh-education) |
+| **Snyk** | Security Scanning | Free Plan | **Free** | Open to All | [Link](https://snyk.io/) |
+| **VMware Workstation** | Virtualization | Pro Edition | **Free** | Open to All | [Link](https://blogs.vmware.com/cloud-foundation/2025/03/10/vmware-fusion-workstation-going-free-new-resources/) |
 
 </details>
 
@@ -137,15 +137,15 @@ A definitive collection of premium software, cloud infrastructure, and professio
 
 | Name | Description | Benefits | Type | Role/Req | Link |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **1Password** | Password Manager | 1 Year Free | **Free** | Student (GitHub Pack) | [Link](https://education.github.com/pack) |
-| **Bitwarden** | Password Manager | Premium Plan | **Free** | Student (Email) | [Link](https://bitwarden.com/help/bitwarden-educational-program/) |
+| **1Password** | Password Manager | 1 Year Free | **Free** | Student (GitHub Pack) | [Link](https://1password.com/developers/students) |
+| **Bitwarden** | Password Manager | Free Plan | **Free** | Open to All | [Link](https://bitwarden.com/) |
 | **Dashlane** | Password Manager | 6 Months Premium | **Free** | Student | [Link](https://www.dashlane.com/students) |
-| **HackTheBox** | Pentesting Labs | Student Rate Subscription | **Discount** | Student (.edu Email) | [Link](https://www.hackthebox.com/) |
-| **TryHackMe** | Cyber Training | 20% Off Premium | **Discount** | Student (Email) | [Link](https://tryhackme.com/student) |
+| **HackTheBox** | Pentesting Labs | Student Rate Subscription | **Discount** | Student (.edu Email) | [Link](https://help.hackthebox.com/en/articles/7973133-getting-the-student-subscription) |
+| **TryHackMe** | Cyber Training | 20% Off Premium | **Discount** | Student (Email) | [Link](https://help.tryhackme.com/en/articles/6494960-student-discount) |
 | **PentesterLab** | Web Security Labs | Student Discount | **Discount** | Student | [Link](https://pentesterlab.com/) |
-| **Shodan** | IoT Search Engine | Membership Upgrade | **Free** | Student (.edu Email) | [Link](https://www.shodan.io/) |
-| **Maltego** | OSINT Graphing | Classic Plan | **Free** | Student (Application) | [Link](https://www.maltego.com/education/) |
-| **Nessus** | Vulnerability Scanner | Essentials (20 IPs, 1 Year) | **Free** | Student/Instructor (Verified) | [Link](https://www.tenable.com/products/nessus/nessus-essentials) |
+| **Shodan** | IoT Search Engine | Membership Upgrade | **Free** | Student (.edu Email) | [Link](https://help.shodan.io/the-basics/academic-upgrade) |
+| **Maltego** | OSINT Graphing | Basic Plan | **Free** | Open to All | [Link](https://www.maltego.com/maltego-community/) |
+| **Nessus** | Vulnerability Scanner | Education License | **Free** | Student/Instructor (Verified) | [Link](https://www.tenable.com/tenable-nessus-for-education) |
 | **Cryptohack** | Cryptography Labs | Education Access | **Free** | Open to All | [Link](https://cryptohack.org/) |
 | **OverTheWire** | Wargames | Free Access | **Free** | Open to All | [Link](https://overthewire.org/) |
 | **PicoCTF** | CTF Platform | Free Practice | **Free** | Open to All | [Link](https://picoctf.org/) |
@@ -179,11 +179,11 @@ A definitive collection of premium software, cloud infrastructure, and professio
 | **Sketch** | Mac UI Design | Free License | **Free** | Student (ID Scan) | [Link](https://www.sketch.com/education/) |
 | **Framer** | Website Builder | Pro Access | **Free** | Student (Verification) | [Link](https://www.framer.com/education/) |
 | **Webflow** | Web Design | CMS Site Plan | **Free** | Student (Email) | [Link](https://webflow.com/for/classroom) |
-| **Icons8** | Design Assets | 3 Months Full Access | **Free** | Student (GitHub Pack) | [Link](https://icons8.com/education) |
+| **Icons8** | Design Assets | 3 Months Full Access | **Free** | Student (GitHub Pack) | [Link](https://icons8.com/github-students) |
 | **IconScout** | Icons & Lottie | 1 Year Pro Plan | **Free** | Student (GitHub Pack) | [Link](https://iconscout.com/github-students) |
 | **DaVinci Resolve** | Video Editor | Full Version | **Free** | Open to All | [Link](https://www.blackmagicdesign.com/products/davinciresolve) |
-| **Descript** | Audio/Video Editor | Student Discount | **Discount** | Student | [Link](https://www.descript.com/) |
-| **ThemeIsle** | WordPress Themes | 1 Year Neve Pro | **Free** | Student (GitHub Pack) | [Link](https://themeisle.com/) |
+| **Descript** | Audio/Video Editor | Education Discount | **Discount** | Student/Educator | [Link](https://help.descript.com/hc/en-us/articles/10255872422029-Non-Profit-and-Education-subscription) |
+| **ThemeIsle** | WordPress Themes | 1 Year Neve Pro | **Free** | Student (GitHub Pack) | [Link](https://themeisle.com/github-students/) |
 
 </details>
 
@@ -205,16 +205,18 @@ A definitive collection of premium software, cloud infrastructure, and professio
 | Name | Description | Benefits | Type | Role/Req | Link |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **GitHub Copilot** | AI Coding Assistant | Full Access | **Free** | Student (GitHub Pack) | [Link](https://education.github.com/pack) |
+| **Google Gemini** | AI Assistant | 1 Year Pro Trial | **Trial** | Student (Verified) | [Link](https://gemini.google/students/) |
+| **Perplexity Pro** | AI Search Engine | 3 Months Education | **Free** | Student (Verified) | [Link](https://www.perplexity.ai/academic) |
 | **OpenAI API** | GPT/DALL-E/Whisper | Free Credits (Region Varies) | **Credit** | Open to All | [Link](https://openai.com/) |
 | **Google Colab** | Python Notebooks | Free GPUs | **Free** | Open to All | [Link](https://colab.research.google.com/) |
 | **Kaggle** | ML Competitions | Free GPUs/TPUs | **Free** | Open to All | [Link](https://www.kaggle.com/) |
 | **HuggingFace** | ML Models | Free GPU Hours | **Free** | Open to All | [Link](https://huggingface.co/) |
 | **Tableau** | Data Visualization | Desktop + Prep Builder | **Free** | Student (SheerID) | [Link](https://www.tableau.com/academic/students) |
-| **MATLAB** | Technical Computing | Student License | **Discount** | Student | [Link](https://www.mathworks.com/academia/students.html) |
+| **MATLAB** | Technical Computing | Student License | **Discount** | Student | [Link](https://www.mathworks.com/products/matlab/student.html) |
 | **Deepnote** | Data Notebooks | Pro Team Plan | **Free** | Student | [Link](https://deepnote.com/education) |
-| **DataCamp** | Data Science Courses | 3 Months Free | **Free** | Student (GitHub Pack) | [Link](https://www.datacamp.com/) |
-| **Wolfram\|Alpha** | Computational Engine | Pro Features | **Discount** | Student | [Link](https://www.wolframalpha.com/) |
-| **SQLGate** | SQL IDE | Standard Subscription | **Free** | Student (GitHub Pack) | [Link](https://www.sqlgate.com/) |
+| **DataCamp** | Data Science Courses | 3 Months Free | **Free** | Student (GitHub Pack) | [Link](https://www.datacamp.com/github-students) |
+| **Wolfram\|Alpha** | Computational Engine | Pro Features | **Discount** | Student | [Link](https://www.wolframalpha.com/pro/pricing/students) |
+| **SQLGate** | SQL IDE | Standard Subscription | **Free** | Student (GitHub Pack) | [Link](https://www.sqlgate.com/student-pack) |
 
 </details>
 
@@ -235,23 +237,22 @@ A definitive collection of premium software, cloud infrastructure, and professio
 
 | Name | Description | Benefits | Type | Role/Req | Link |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Coursera** | Online Courses | Financial Aid + Free Audits | **Free** | Application | [Link](https://www.coursera.org/) |
+| **Coursera** | Online Courses | Financial Aid + Free Audits | **Free** | Application | [Link](https://www.coursera.support/s/article/learner-000001455) |
 | **edX** | University Courses | Free Audit Track | **Free** | Open to All | [Link](https://www.edx.org/) |
-| **Educative** | Interactive Courses | 6 Months Free | **Free** | Student (GitHub Pack) | [Link](https://www.educative.io/) |
-| **Frontend Masters** | Web Dev Courses | 6 Months Free | **Free** | Student (GitHub Pack) | [Link](https://frontendmasters.com/) |
-| **Scrimba** | Frontend Courses | Pro Discount | **Discount** | Student | [Link](https://scrimba.com/) |
-| **DataCamp** | Data Skills | 3 Months Free | **Free** | Student (GitHub Pack) | [Link](https://www.datacamp.com/) |
+| **Educative** | Interactive Courses | 6 Months Free | **Free** | Student (GitHub Pack) | [Link](https://www.educative.io/github-students) |
+| **Frontend Masters** | Web Dev Courses | 6 Months Free | **Free** | Student (GitHub Pack) | [Link](https://frontendmasters.com/welcome/github-student-developers/) |
+| **Scrimba** | Frontend Courses | Pro Discount | **Discount** | Student | [Link](https://scrimba.helpscoutdocs.com/article/19-do-you-offer-student-discounts) |
+| **DataCamp** | Data Skills | 3 Months Free | **Free** | Student (GitHub Pack) | [Link](https://www.datacamp.com/github-students) |
 | **Codecademy** | Coding Courses | 35% Off Pro | **Discount** | Student | [Link](https://www.codecademy.com/student-center) |
-| **Codédex** | Learn to Code | Education Plan | **Free** | Student | [Link](https://www.codedex.io/home) |
+| **Codédex** | Learn to Code | Education Plan | **Free** | Student (GitHub Pack) | [Link](https://www.codedex.io/github-students) |
 | **LinkedIn Learning** | Professional Skills | Free via Library | **Free** | Library Card | [Link](https://www.linkedin.com/learning/) |
-| **Pluralsight** | Tech Skills | Student Access | **Free** | Student (Email) | [Link](https://www.pluralsight.com/) |
 | **Microsoft Learn** | MS Technologies | Free + Cert Vouchers | **Free** | Open to All | [Link](https://learn.microsoft.com/) |
 | **AWS Skill Builder** | AWS Training | Free Tier | **Free** | Open to All | [Link](https://skillbuilder.aws/) |
 | **Google Skillshop** | Google Products | Free Certifications | **Free** | Open to All | [Link](https://skillshop.withgoogle.com/) |
-| **Interview Cake** | Interview Prep | Discount | **Discount** | Student | [Link](https://www.interviewcake.com/) |
-| **AlgoExpert** | Interview Prep | Student Discount | **Discount** | Student | [Link](https://www.algoexpert.io/) |
-| **LeetCode** | Coding Practice | Premium Discount | **Discount** | Student | [Link](https://leetcode.com/) |
-| **Overleaf** | LaTeX Editor | Premium Features | **Free** | Student (GitHub Pack) | [Link](https://www.overleaf.com/) |
+| **Interview Cake** | Interview Prep | 3 Weeks Free | **Free** | Student (GitHub Pack) | [Link](https://www.interviewcake.com/github-students) |
+| **AlgoExpert** | Interview Prep | Student Discount | **Discount** | Student (GitHub Pack) | [Link](https://www.algoexpert.io/github-students) |
+| **LeetCode** | Coding Practice | Premium Discount | **Discount** | Student | [Link](https://leetcode.com/student/) |
+| **Overleaf** | LaTeX Editor | Premium Features | **Free** | Student (Email) | [Link](https://www.overleaf.com/user/subscription/plans?plan=student&period=annual) |
 
 </details>
 
@@ -272,20 +273,18 @@ A definitive collection of premium software, cloud infrastructure, and professio
 
 | Name | Description | Benefits | Type | Role/Req | Link |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Notion** | Workspace/Wiki | Plus Plan Free | **Free** | Student (Email) | [Link](https://www.notion.so/product/notion-for-education) |
+| **Notion** | Workspace/Wiki | Plus Plan Free | **Free** | Student (Email) | [Link](https://www.notion.com/product/notion-for-education) |
 | **Microsoft 365** | Office Suite | Full Office Apps | **Free** | Student (School Must Join) | [Link](https://www.microsoft.com/en-us/education/products/office) |
 | **Google Workspace** | Productivity Suite | Full Access via School | **Free** | Student (School Must Join) | [Link](https://edu.google.com/) |
-| **Todoist** | Task Manager | Pro Plan | **Free** | Student (GitHub Pack) | [Link](https://todoist.com/education) |
-| **Airtable** | Database/Spreadsheet | Pro Features Trial | **Free** | Student (.edu Email) | [Link](https://airtable.com/) |
-| **Trello** | Project Boards | Premium via GitHub Pack | **Free** | Student (GitHub Pack) | [Link](https://trello.com/) |
-| **Asana** | Project Management | Free Tier | **Free** | Open to All | [Link](https://asana.com/) |
-| **Monday.com** | Work Management | Student Plan | **Free** | Student | [Link](https://monday.com/students) |
+| **Airtable** | Database/Spreadsheet | Education Plan | **Free** | Student/Nonprofit | [Link](https://support.airtable.com/docs/nonprofit-and-educational-plans-faqs) |
+| **Asana** | Project Management | Student Plan | **Free** | Student | [Link](https://asana.com/industry/students) |
+| **Monday.com** | Work Management | Free Plan | **Free** | Open to All | [Link](https://monday.com/pricing) |
 | **Slack** | Team Messaging | Free Tier + Education | **Free** | Student | [Link](https://slack.com/) |
 | **Discord** | Communication | Free + Nitro Promos | **Free** | Open to All | [Link](https://discord.com/) |
 | **Zoom** | Video Conferencing | Free + School Plans | **Free** | Open to All | [Link](https://zoom.us/) |
 | **Grammarly** | Writing Assistant | Premium Discount | **Discount** | Student | [Link](https://www.grammarly.com/edu) |
 | **Evernote** | Note Taking | 50% Off Personal | **Discount** | Student | [Link](https://evernote.com/students) |
-| **Typeform** | Forms & Surveys | 1 Year Free | **Free** | Student (GitHub Pack) | [Link](https://www.typeform.com/) |
+| **Typeform** | Forms & Surveys | Student Discount | **Discount** | Student | [Link](https://help.typeform.com/hc/en-us/articles/360039728951-Non-profit-NGO-and-student-discounts-at-Typeform) |
 | **Prezi** | Presentations | Edu Account | **Free** | Student (Email) | [Link](https://prezi.com/education/) |
 | **Miro** | Whiteboarding | Education Plan | **Free** | Student (Email) | [Link](https://miro.com/education-whiteboard/) |
 
@@ -310,15 +309,15 @@ A definitive collection of premium software, cloud infrastructure, and professio
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Apple** | Mac/iPad | ~10% Off + Free AirPods (Seasonal) | **Discount** | Student (Education Store) | [Link](https://www.apple.com/shop/education-pricing) |
 | **Dell** | Laptops/Desktops | Up to 20% Off | **Discount** | Student (Email) | [Link](https://www.dell.com/en-us/lp/students) |
-| **Lenovo** | ThinkPad/IdeaPad | 5-60% Off | **Discount** | Student (ID.me) | [Link](https://www.lenovo.com/us/en/d/deals/students-and-teachers/) |
-| **HP** | Laptops/Desktops | Up to 35% Off | **Discount** | Student (UNiDAYS) | [Link](https://www.hp.com/us-en/shop/cv/students-workspace) |
+| **Lenovo** | ThinkPad/IdeaPad | 5-60% Off | **Discount** | Student (ID.me) | [Link](https://www.lenovo.com/us/en/student/) |
+| **HP** | Laptops/Desktops | Up to 35% Off | **Discount** | Student (UNiDAYS) | [Link](https://www.hp.com/us-en/shop/cv/hp-education) |
 | **Microsoft** | Surface Devices | Up to 10% Off | **Discount** | Student (Email) | [Link](https://www.microsoft.com/en-us/store/b/education) |
-| **Samsung** | Electronics | Student Discounts | **Discount** | Student (Email) | [Link](https://www.samsung.com/us/shop/discount-program/education/) |
+| **Samsung** | Electronics | Student Discounts | **Discount** | Student (Email) | [Link](https://www.samsung.com/us/shop/offer-program/education/) |
 | **Logitech** | Accessories | 25% Off | **Discount** | Student (UNiDAYS) | [Link](https://www.logitech.com/en-us/education.html) |
-| **Bose** | Audio | Student Discount | **Discount** | Student (UNiDAYS) | [Link](https://www.bose.com/en_us/shop_all.html) |
-| **Sony** | Electronics | Education Pricing | **Discount** | Student (ID.me) | [Link](https://electronics.sony.com/) |
-| **Best Buy** | Electronics | Student Deals Hub | **Discount** | Student (Email) | [Link](https://www.bestbuy.com/site/back-to-school/college-student-deals/pcmcat748300659696.c) |
-| **OnTheHub** | Software/Hardware | School-Sponsored Deals | **Discount** | Student (School) | [Link](https://onthehub.com/) |
+| **Bose** | Audio | Student Discount | **Discount** | Student (ID.me) | [Link](https://www.bose.com/idme-group-discounts-program) |
+| **Sony** | Electronics | Education Pricing | **Discount** | Student (ID.me) | [Link](https://electronics.sony.com/group-offers) |
+| **Best Buy** | Electronics | Student Deals Hub | **Discount** | Student (Email) | [Link](https://www.bestbuy.com/site/misc/back-to-school/pcmcat334100050000.c) |
+| **OnTheHub** | Software/Hardware | School-Sponsored Deals | **Discount** | Student (School) | [Link](https://onthehub.com/shop?userGroup=students) |
 
 </details>
 
@@ -374,14 +373,14 @@ A definitive collection of premium software, cloud infrastructure, and professio
 | **Apple Music** | Music Streaming | ~50% Off + Free Apple TV+ | **Discount** | Student (UNiDAYS) | [Link](https://www.apple.com/apple-music/) |
 | **YouTube Premium** | Ad-Free Video | ~40-50% Off | **Discount** | Student (SheerID) | [Link](https://www.youtube.com/premium/student) |
 | **Amazon Prime** | Shopping/Video | 6 Months Free + 50% Off | **Trial** | Student (Email) | [Link](https://www.amazon.com/prime/student) |
-| **Paramount+** | Streaming | Up to 50% Off | **Discount** | Student (SheerID) | [Link](https://www.paramountplus.com/) |
-| **Peacock** | Streaming | 60% Off (~$2.99/mo) | **Discount** | Student | [Link](https://www.peacocktv.com/) |
+| **Paramount+** | Streaming | Up to 50% Off | **Discount** | Student (SheerID) | [Link](https://www.paramountplus.com/account/signup/edu-offer/) |
+| **Peacock** | Streaming | 60% Off (~$2.99/mo) | **Discount** | Student | [Link](https://www.peacocktv.com/student) |
 | **Hulu** | Streaming | $1.99/mo Student Plan | **Discount** | Student (SheerID) | [Link](https://www.hulu.com/student) |
 | **Headspace** | Meditation | $9.99/year | **Discount** | Student (SheerID) | [Link](https://www.headspace.com/studentplan) |
-| **Calm** | Meditation | Student Discount | **Discount** | Student | [Link](https://www.calm.com/) |
+| **Calm** | Meditation | Education Plan | **Free** | Student (Email) | [Link](https://www.calm.com/c/education) |
 | **YNAB** | Budgeting | 1 Year Free | **Free** | Student (Email) | [Link](https://www.ynab.com/college) |
-| **The New York Times** | News | Free/Discounted | **Discount** | Student (.edu Email) | [Link](https://www.nytimes.com/subscription/education) |
-| **Washington Post** | News | Free Access | **Free** | Student (.edu Email) | [Link](https://www.washingtonpost.com/) |
+| **The New York Times** | News | Free/Discounted | **Discount** | Student (.edu Email) | [Link](https://www.nytimes.com/activate-access/edu-access) |
+| **Washington Post** | News | Discounted Access | **Discount** | Student (.edu Email) | [Link](https://subscribe.washingtonpost.com/acquisition/?p=s_v_edu) |
 | **Wall Street Journal** | News | $4/month | **Discount** | Student | [Link](https://education.wsj.com/) |
 | **UNiDAYS** | Discount Platform | Aggregated Student Deals | **Free** | Student (Verification) | [Link](https://www.myunidays.com/) |
 | **Student Beans** | Discount Platform | Aggregated Student Deals | **Free** | Student (Verification) | [Link](https://www.studentbeans.com/) |

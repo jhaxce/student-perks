@@ -36,7 +36,7 @@ Root (GitHub Repo)              ──► CI copies to docs/
 Follow this exact column order when adding perks:
 
 ```markdown
-| **Name** | Description | Benefits | **Type** | Role/Req | [Link](url) |
+| **Name** | Description | Benefits | **Type** | Role/Req | [Link](https://example.com/) |
 ```
 
 **Type values:** `Free`, `Discount`, `Credit`, `Trial`
