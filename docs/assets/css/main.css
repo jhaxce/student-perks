@@ -212,18 +212,33 @@ main {
   background: linear-gradient(135deg, var(--bg-tertiary), var(--bg-secondary));
   border: 1px solid var(--border-subtle);
   border-radius: var(--radius-md);
-  padding: 20px;
-  margin: 28px 0;
+  padding: 16px;
+  margin: 24px 0;
   text-align: center;
   box-shadow: var(--shadow-sm);
 }
 
 .ad-container p {
   color: var(--text-muted);
-  font-size: 0.75rem;
+  font-size: 0.7rem;
   text-transform: uppercase;
   letter-spacing: 0.08em;
-  margin: 0 0 12px 0;
+  margin: 0 0 8px 0;
+  opacity: 0.7;
+}
+
+/* In-feed ads (between sections) - more subtle */
+.ad-inline {
+  background: transparent;
+  border: 1px dashed var(--border-subtle);
+  padding: 12px;
+  margin: 32px 0;
+}
+
+/* Bottom ad - more prominent */
+.ad-bottom {
+  margin-top: 48px;
+  padding: 20px;
 }
 
 /* ─────────────────────────────────────────────────────────────────────────────

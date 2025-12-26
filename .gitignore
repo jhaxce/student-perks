@@ -12,6 +12,7 @@ vendor/
 docs/README.md
 docs/verification/VERIFICATION.md
 docs/preview.html
+docs/assets/images/social-preview-template.html
 
 # Ignore gem files
 Gemfile
