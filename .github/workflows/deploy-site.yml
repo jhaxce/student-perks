@@ -65,11 +65,11 @@ jobs:
           set -eux
           mkdir -p docs/verification
           
-          # Sync README.md
+          # Sync README.md to docs/
           cp README.md docs/README.md
           echo "✅ Synced README.md"
           
-          # Sync VERIFICATION.md  
+          # Sync VERIFICATION.md to docs/verification/ (for include_relative)
           cp VERIFICATION.md docs/verification/VERIFICATION.md
           echo "✅ Synced VERIFICATION.md"
 
