@@ -117,6 +117,11 @@ A definitive collection of premium software, cloud infrastructure, and professio
 | **DeepSource** | Static Analysis | Free for Students | **Free** | Student | [Link](https://deepsource.com/blog/deepsource-gh-education) |
 | **Snyk** | Security Scanning | Free Plan | **Free** | Open to All | [Link](https://snyk.io/) |
 | **VMware Workstation** | Virtualization | Pro Edition | **Free** | Open to All | [Link](https://blogs.vmware.com/cloud-foundation/2025/03/10/vmware-fusion-workstation-going-free-new-resources/) |
+| **Cursor** | AI-Powered IDE | Education Partner Program | **Free** | Student (Application) | [Link](https://cursor.com/students) |
+| **Lovable** | AI App Builder | 50% Off Pro | **Discount** | Student (SheerID) | [Link](https://lovable.dev/students) |
+| **FlutterFlow** | Low-Code Builder | 1 Year Free Pro | **Free** | Student (Application) | [Link](https://flutterflow.typeform.com/to/VEA2GRZa) |
+| **n8n** | Workflow Automation | Self-Hosted (Open Source) | **Free** | Open to All | [Link](https://n8n.io/) |
+| **Antigravity** | AI IDE | Full Access | **Free** | Open to All | [Link](https://antigravity.dev/) |
 
 </details>
 
@@ -217,6 +222,9 @@ A definitive collection of premium software, cloud infrastructure, and professio
 | **DataCamp** | Data Science Courses | 3 Months Free | **Free** | Student (GitHub Pack) | [Link](https://www.datacamp.com/github-students) |
 | **Wolfram\|Alpha** | Computational Engine | Pro Features | **Discount** | Student | [Link](https://www.wolframalpha.com/pro/pricing/students) |
 | **SQLGate** | SQL IDE | Standard Subscription | **Free** | Student (GitHub Pack) | [Link](https://www.sqlgate.com/student-pack) |
+| **ChatGPT Plus** | AI Assistant | 50% Off ($10/mo) | **Discount** | Student (SheerID, US/CA) | [Link](https://help.openai.com/en/articles/10968654-student-discounts-for-chatgpt-plus-uscanada) |
+| **HyperWrite** | AI Writing Assistant | 50% Off Premium | **Discount** | Student (.edu Email) | [Link](https://www.hyperwriteai.com/faq/does-hyperwrite-offer-a-student-discount) |
+| **Julius AI** | Data Analysis AI | Education Discount | **Discount** | Student | [Link](https://julius.ai/docs/account/discounts) |
 
 </details>
 
@@ -287,6 +295,9 @@ A definitive collection of premium software, cloud infrastructure, and professio
 | **Typeform** | Forms & Surveys | Student Discount | **Discount** | Student | [Link](https://help.typeform.com/hc/en-us/articles/360039728951-Non-profit-NGO-and-student-discounts-at-Typeform) |
 | **Prezi** | Presentations | Edu Account | **Free** | Student (Email) | [Link](https://prezi.com/education/) |
 | **Miro** | Whiteboarding | Education Plan | **Free** | Student (Email) | [Link](https://miro.com/education-whiteboard/) |
+| **Obsidian** | Note-Taking | 40% Off Sync/Publish | **Discount** | Student (Verification) | [Link](https://help.obsidian.md/discounts) |
+| **Reclaim.ai** | Calendar AI | 50% Off (12 Months) | **Discount** | Student (Verification) | [Link](https://reclaim.ai/pricing/education-discount) |
+| **.TECH Domain** | Domain Registrar | 1 Free .tech Domain | **Free** | Student (GitHub Pack) | [Link](https://get.tech/github-student-developer-pack) |
 
 </details>
 
