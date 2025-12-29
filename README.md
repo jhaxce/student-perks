@@ -63,7 +63,6 @@ A definitive collection of premium software, cloud infrastructure, and professio
 | **Oracle Cloud** | Cloud Infrastructure | $300 Trial + Always-Free VMs | **Credit** | Open to All | [Link](https://www.oracle.com/cloud/free/) |
 | **Heroku** | PaaS Deployment | $13/mo Credit (2 Years) | **Credit** | Student (GitHub Pack) | [Link](https://www.heroku.com/github-students) |
 | **Vercel** | Frontend Hosting | Hobby Plan (Free Forever) | **Free** | Open to All | [Link](https://vercel.com/pricing) |
-| **v0.app** | AI UI Generator | 1 Year Premium | **Free** | Student (Verified) | [Link](https://v0.dev/students) |
 | **Netlify** | Jamstack Hosting | Pro Plan (Open Source) | **Free** | Open Source | [Link](https://opensource-form.netlify.com/) |
 | **Railway** | App Deployment | $5 Trial Credit | **Trial** | Open to All | [Link](https://railway.app/pricing) |
 | **Render** | Cloud Hosting | Free Tier | **Free** | Open to All | [Link](https://render.com/pricing) |
@@ -73,6 +72,7 @@ A definitive collection of premium software, cloud infrastructure, and professio
 | **PlanetScale** | MySQL Database | Free Hobby Tier | **Free** | Open to All | [Link](https://planetscale.com/) |
 | **Supabase** | PostgreSQL Backend | Free Tier | **Free** | Open to All | [Link](https://supabase.com/) |
 | **Cloudflare** | CDN & Security | Free Plan + Education Program | **Free** | Student | [Link](https://www.cloudflare.com/en-gb/students/) |
+| **.TECH Domain** | Domain Registrar | 1 Free .tech Domain | **Free** | Student (GitHub Pack) | [Link](https://get.tech/github-student-developer-pack) |
 
 </details>
 
@@ -94,7 +94,6 @@ A definitive collection of premium software, cloud infrastructure, and professio
 | Name | Description | Benefits | Type | Role/Req | Link |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **GitHub Student Pack** | The "Holy Grail" | Copilot + Pro Plan + 100+ Partners | **Free** | Student (ID/Proof) | [Link](https://education.github.com/pack) |
-| **GitHub Copilot** | AI Pair Programmer | Full Pro Access | **Free** | Student (GitHub Pack) | [Link](https://github.com/features/copilot) |
 | **JetBrains** | IDE Suite | All Products Free (IntelliJ, PyCharm, etc.) | **Free** | Student (Email/ISIC) | [Link](https://www.jetbrains.com/community/education/#students) |
 | **Visual Studio** | Microsoft IDE | Professional/Enterprise Features | **Free** | Student (Email) | [Link](https://visualstudio.microsoft.com/students/) |
 | **GitKraken** | Git GUI Client | Pro License | **Free** | Student (GitHub Pack) | [Link](https://www.gitkraken.com/github-student-developer-pack-bundle) |
@@ -115,13 +114,13 @@ A definitive collection of premium software, cloud infrastructure, and professio
 | **Sentry** | Error Monitoring | 500K Events/Month | **Free** | Student | [Link](https://sentry.io/for/education/) |
 | **Codecov** | Code Coverage | Free for Students | **Free** | Student | [Link](https://about.codecov.io/for/education/) |
 | **DeepSource** | Static Analysis | Free for Students | **Free** | Student | [Link](https://deepsource.com/blog/deepsource-gh-education) |
-| **Snyk** | Security Scanning | Free Plan | **Free** | Open to All | [Link](https://snyk.io/) |
 | **VMware Workstation** | Virtualization | Pro Edition | **Free** | Open to All | [Link](https://blogs.vmware.com/cloud-foundation/2025/03/10/vmware-fusion-workstation-going-free-new-resources/) |
 | **Cursor** | AI-Powered IDE | Education Partner Program | **Free** | Student (Application) | [Link](https://cursor.com/students) |
 | **Lovable** | AI App Builder | 50% Off Pro | **Discount** | Student (SheerID) | [Link](https://lovable.dev/students) |
 | **FlutterFlow** | Low-Code Builder | 1 Year Free Pro | **Free** | Student (Application) | [Link](https://flutterflow.typeform.com/to/VEA2GRZa) |
 | **n8n** | Workflow Automation | Self-Hosted (Open Source) | **Free** | Open to All | [Link](https://n8n.io/) |
 | **Antigravity** | AI IDE | Full Access | **Free** | Open to All | [Link](https://antigravity.dev/) |
+| **v0.app** | AI UI Generator | 1 Year Premium | **Free** | Student (Verified) | [Link](https://v0.dev/students) |
 
 </details>
 
@@ -156,6 +155,7 @@ A definitive collection of premium software, cloud infrastructure, and professio
 | **PicoCTF** | CTF Platform | Free Practice | **Free** | Open to All | [Link](https://picoctf.org/) |
 | **Surfshark** | VPN Service | ~80% Off | **Discount** | Student | [Link](https://surfshark.com/student-discount) |
 | **NordVPN** | VPN Service | Student Discount | **Discount** | Student | [Link](https://nordvpn.com/student-discount/) |
+| **Snyk** | Security Scanning | Free Plan | **Free** | Open to All | [Link](https://snyk.io/) |
 
 </details>
 
@@ -297,7 +297,6 @@ A definitive collection of premium software, cloud infrastructure, and professio
 | **Miro** | Whiteboarding | Education Plan | **Free** | Student (Email) | [Link](https://miro.com/education-whiteboard/) |
 | **Obsidian** | Note-Taking | 40% Off Sync/Publish | **Discount** | Student (Verification) | [Link](https://help.obsidian.md/discounts) |
 | **Reclaim.ai** | Calendar AI | 50% Off (12 Months) | **Discount** | Student (Verification) | [Link](https://reclaim.ai/pricing/education-discount) |
-| **.TECH Domain** | Domain Registrar | 1 Free .tech Domain | **Free** | Student (GitHub Pack) | [Link](https://get.tech/github-student-developer-pack) |
 
 </details>
 
