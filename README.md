@@ -98,6 +98,7 @@ A definitive collection of premium software, cloud infrastructure, and professio
 | **Visual Studio** | Microsoft IDE | Professional/Enterprise Features | **Free** | Student (Email) | [Link](https://visualstudio.microsoft.com/students/) |
 | **GitKraken** | Git GUI Client | Pro License | **Free** | Student (GitHub Pack) | [Link](https://www.gitkraken.com/github-student-developer-pack-bundle) |
 | **GitLens Pro** | VS Code Git Extension | Pro Features | **Free** | Student (GitHub Pack) | [Link](https://www.gitkraken.com/gitlens) |
+| **Kilobat Pro** | Mac Wi-Fi diagnostics and hotspot controls | 1 Year Free on 2 Macs; Renewable While Studying | **Free** | Student (School Email) | [Link](https://kilobat.app/students) |
 | **Tower** | Git Client (Mac/Win) | Pro License | **Free** | Student (Email) | [Link](https://www.git-tower.com/students) |
 | **Termius** | SSH/SFTP Client | Premium (Mobile/Desktop) | **Free** | Student (GitHub Pack) | [Link](https://termius.com/education) |
 | **Postman** | API Platform | Pro Features | **Free** | Student | [Link](https://www.postman.com/student-program/) |
