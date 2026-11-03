@@ -273,6 +273,7 @@ A definitive collection of premium software, cloud infrastructure, and professio
 ---
 
 <a id="productivity--collaboration"></a>
+| **QuizQuip** | Free science revision for Singapore Sec 1-2: notes, quizzes, practice papers | **Free** | Open to All | [Link](https://quizquip.com/) |
 
 ## ⚡ Productivity & Collaboration
 
