@@ -284,6 +284,7 @@ A definitive collection of premium software, cloud infrastructure, and professio
 | **Notion** | Workspace/Wiki | Plus Plan Free | **Free** | Student (Email) | [Link](https://www.notion.com/product/notion-for-education) |
 | **Microsoft 365** | Office Suite | Full Office Apps | **Free** | Student (School Must Join) | [Link](https://www.microsoft.com/en-us/education/products/office) |
 | **Google Workspace** | Productivity Suite | Full Access via School | **Free** | Student (School Must Join) | [Link](https://edu.google.com/) |
+| **Glasp** | Web & YouTube Highlighter | Glasp Student Plan (12 Months, Renewable) | **Free** | Student (Email) | [Link](https://glasp.co/students) |
 | **Airtable** | Database/Spreadsheet | Education Plan | **Free** | Student/Nonprofit | [Link](https://support.airtable.com/docs/nonprofit-and-educational-plans-faqs) |
 | **Asana** | Project Management | Student Plan | **Free** | Student | [Link](https://asana.com/industry/students) |
 | **Monday.com** | Work Management | Free Plan | **Free** | Open to All | [Link](https://monday.com/pricing) |
